@@ -90,9 +90,10 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 - URL (or IP): Put `your repl`'s link. Repl links are [these](https://cdn.discordapp.com/attachments/678537293820330005/830757823549276160/7.png)
 - Monitoring Interval: 5 minutes
 
-Finally click **Create Monitor**. And you're done! Done with everything!
+Finally click **Create Monitor** and clock **Run** in your repl. And you're done! Done with everything!
 
 ### Keep in Mind
+- If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl. 
 - The bot will identify only 1 pokémon every 60 seconds
 - Reduce the number of channels in `.env` if the bot is getting rate limited too many times
 - The bot has permissions to send embeds.
