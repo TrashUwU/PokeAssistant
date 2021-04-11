@@ -1,5 +1,5 @@
 # PokéAssistant
-A bot to help you with catching Pokémons on Pokétwo.
+A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo.
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ### Developer
