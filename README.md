@@ -9,7 +9,7 @@ It uses a light machine learning module, that can predict Pokémons in 5-7 secon
 ### Issues?
 Facing issues with the bot? Please create an Issue.
 ### Why is the source code messed up?
-It's encrypted/obfuscated. But you can run it without problem!
+It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Bot Repl
