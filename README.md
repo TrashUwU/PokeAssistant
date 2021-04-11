@@ -94,13 +94,14 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 Finally click **Create Monitor** and clock **Run** in your repl. And you're done! Done with everything!
 
 ### Keep in Mind
-- If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl. 
+- If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl
 - The bot will identify only 1 pokémon every 60 seconds
 - Reduce the number of channels in `.env` if the bot is getting rate limited too many times
-- The bot has permissions to send embeds.
+- The bot has permissions to send embeds
 - You can upgrade the bot by contacting mods in the support server
 - Upgraded bot includes decreased rate limits(1 pokemon every 20 seconds), no ads, faster response and gives final prediction
-- Make sure `.env` is not empty and information provided there is correct.
+- Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
+- Do not touch the code
 
 ### Made by TrashUwU#8019
