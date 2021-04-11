@@ -102,6 +102,6 @@ Finally click **Create Monitor** and clock **Run** in your repl. And you're done
 - Upgraded bot includes decreased rate limits(1 pokemon every 20 seconds), no ads, faster response and gives final prediction
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
-- Do not touch the code
+- Do not edit the code, because it will break the whole bot :/
 
 ### Made by TrashUwU#8019
