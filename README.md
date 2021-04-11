@@ -88,9 +88,6 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 - Monitor Type: Choose HTTP(s)
 - Friendly Name: Literally anything
 - URL (or IP): Put `your repl`'s link. Repl links are [these](https://cdn.discordapp.com/attachments/678537293820330005/830757823549276160/7.png)
-
-![](assets/9.png)
-
 - Monitoring Interval: 5 minutes
 
 Finally click **Create Monitor**. And you're done! Done with everything!
@@ -102,6 +99,6 @@ Finally click **Create Monitor**. And you're done! Done with everything!
 - You can upgrade the bot by contacting mods in the support server
 - Upgraded bot includes decreased rate limits(1 pokemon every 20 seconds), no ads, faster response and gives final prediction
 - Make sure `.env` is not empty and information provided there is correct.
-- Make sure it can DM the owner
+- Make sure the bot can DM the owner
 
 ### Made by TrashUwU#8019
