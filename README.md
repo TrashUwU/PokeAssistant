@@ -61,7 +61,8 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 ![](https://cdn.discordapp.com/attachments/678537293820330005/830756922487603220/6.png)
 
 #### Configuration
-Go to .env file. All options are compulsory.
+Rename `.env.example` file to `.env`.
+Go to `.env` file. All options are compulsory.
 - TOKEN: Put in the one you copied just now
 - OWNER: Your Account ID
 - CHANNEL: Channel ID where Pokétwo spawns, for multiple channels separate with `,` (no spacing)
