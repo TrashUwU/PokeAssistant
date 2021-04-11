@@ -13,7 +13,7 @@ It's encrypted/obfuscated. But you can run it without problem!
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Bot Repl
-https://replit.com/@ButterTaurus/PokéAssistant
+https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
 https://discord.gg/CtXvFj9yPq
 
