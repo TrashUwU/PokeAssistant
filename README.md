@@ -62,6 +62,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 Rename `.env.example` file to `.env`.
+![](https://cdn.discordapp.com/attachments/806194434117992499/831071411191414814/9.png)
 Go to `.env` file. All options are compulsory.
 - TOKEN: Put in the one you copied just now
 - OWNER: Your Account ID
@@ -75,7 +76,9 @@ CHANNEL=771967676951429150,771967676951429150,733971269527273492
 OWNER=663917469523843492
 ```
 
-![](assets/7.png)
+![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
+
+Now Click Green **Run** Button.
 
 The bot should be online now.
 
@@ -91,7 +94,7 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 - URL (or IP): Put `your repl`'s link. Repl links are [these](https://cdn.discordapp.com/attachments/678537293820330005/830757823549276160/7.png)
 - Monitoring Interval: 5 minutes
 
-Finally click **Create Monitor** and clock **Run** in your repl. And you're done! Done with everything!
+Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Keep in Mind
 - If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl
