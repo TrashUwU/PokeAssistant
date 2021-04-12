@@ -61,7 +61,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 ![](https://cdn.discordapp.com/attachments/678537293820330005/830756922487603220/6.png)
 
 #### Configuration
-(Mobile users will click `files` button to see all files)
+(Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
 Rename `.env.example` file to `.env`.
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071411191414814/9.png)
