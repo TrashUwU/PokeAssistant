@@ -17,7 +17,7 @@ https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
 https://discord.gg/CtXvFj9yPq
 
-## Self-hosting Guide
+## Bot Installation Guide Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
 ### Step 1: Creating a bot account
