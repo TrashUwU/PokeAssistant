@@ -4,6 +4,9 @@ A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo.
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ### Developer
 TrashUwU#8019
+
+![](https://cdn.discordapp.com/attachments/764159382941728830/831117749187117086/Spawn.png)
+
 ### How does it work?
 It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
 ### Issues?
