@@ -66,7 +66,7 @@ Rename `.env.example` file to `.env`.
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071411191414814/9.png)
 
 Now open `.env` file. All options are compulsory.
-- TOKEN: Put in the one you copied just now
+- TOKEN: Your bot token
 - OWNER: Your Account ID
 - CHANNEL: Channel ID where Pokétwo spawns, for multiple channels separate with `,` (no spacing)
 
