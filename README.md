@@ -73,7 +73,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 (Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
-Rename `.env.example` file to `.env`.
+Rename `.env.example` file to `.env`. If you can't rename it, then create a `.env` file. Now open `.env` file.
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071411191414814/9.png)
 
@@ -119,6 +119,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Upgraded bot includes decreased rate limits(1 pokemon every 20 seconds), no ads, pings a role if a rare pokemon has spawned(Coming Soon), gives final prediction and faster response
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
+- The bot's accuracy is 80%
 - Do not edit the code, because it will break the whole bot :/
 
 ### Made by TrashUwU#8019
