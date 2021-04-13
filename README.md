@@ -14,7 +14,7 @@ Facing issues with the bot? Please create an Issue.
 ### Why is the source code messed up?
 It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
 ### Why can't I invite the bot instead of hosting it?
-Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
+Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Bot Repl
@@ -25,8 +25,8 @@ https://discord.gg/CtXvFj9yPq
 ## Features
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
-- Pokemon dataset updates automatically (But if the code gets updated, you need to update it yourself)
-- Returns 2-3 Pokemon as prediction
+- Pokemon dataset updates automatically (But if the code gets updated, you need to copy the updated code and paste it in your REPL)
+- Returns 2-3 Pokemons as prediction
 
 ## Bot Installation Guide Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
