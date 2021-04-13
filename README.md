@@ -22,6 +22,12 @@ https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
 https://discord.gg/CtXvFj9yPq
 
+## Features
+- Fast and light
+- Can be hosted 24/7 on cloud or on PC
+- Pokemon dataset updates automatically (But if the code gets updated, you need to update it yourself)
+- Returns 2-3 Pokemon as prediction
+
 ## Bot Installation Guide Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
