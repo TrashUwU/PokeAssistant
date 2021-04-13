@@ -1,7 +1,7 @@
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo.
 ## Information
-PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
+PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one (Free). As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this. It will ping a role if rare pokemons slawn (Premium Only)
 ### Developer
 TrashUwU#8019
 
@@ -13,6 +13,8 @@ It uses a light machine learning module, that can predict Pokémons in 5-7 secon
 Facing issues with the bot? Please create an Issue.
 ### Why is the source code messed up?
 It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
+### Why can't I invite the bot instead of hosting it?
+Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100. That means you can't invite it to your server, if it's in 100 servers already 😵
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Bot Repl
