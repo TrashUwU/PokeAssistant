@@ -20,7 +20,7 @@ Discord does not verify bots that work against other bot(cheat bots). Server lim
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
-The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not leak your bot token.
+The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
@@ -29,7 +29,7 @@ https://discord.gg/CtXvFj9yPq
 ## Features
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
-- Pokemon dataset updates automatically (But if the code gets updated, you need to copy the updated code and paste it in your REPL)
+- Pokemon dataset updates automatically (But if the code gets updated, you will need to copy the updated code and paste it in your REPL)
 - Returns 2-3 Pokemons as prediction
 
 ## Premium Features
@@ -94,7 +94,7 @@ Now open `.env` file. All options are compulsory.
 - CHANNEL: Channel ID where Pokétwo spawns, for multiple channels separate with `,` (no spacing)
 
 
-An example would be:
+An example `.env` code would be:
 ```
 TOKEN=NTU2NjQ2MjA1MDExMDAxMzQ1.D29B7Q.LcTk_nSujMXdVyFohpJpjF50odE
 CHANNEL=771967676951429150,771967676951429150,733971269527273492
@@ -125,15 +125,15 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl or the bot will stop working
 - The bot will identify 1 pokemon every 60 seconds; if there are multiple spawns in 1 minute, the bot will get rate limited
 - Reduce the number of channels in `.env` if the bot gets rate limited too many times
-- The bot has permissions to send embeds
+- The bot must have permissions to send embeds
 - Upgraded/Premium bot includes decreased rate limits(1 pokemon every 20 seconds), no ads, pings a role if a rare pokemon has spawned(Coming Soon), gives final prediction and faster response
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
 - The bot's accuracy is 80%
-- Do not leak the bot token
+- Do not show the bot token to others
 - Do not edit the code, because it will break the whole bot :/
 
 ### Get Premium
-Join the support server and create a support ticket to contact the moderators. Premium can't be bought with money.
+Join the support server and create a support ticket to contact the moderators. Premium can't be purchased with money.
 
 ### Made by TrashUwU#8019
