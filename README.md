@@ -73,9 +73,9 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 (Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
-Rename `.env.example` file to `.env`. If you can't rename it, then create a `.env` file. Now open `.env` file.
+Create a `.env` file. Now open `.env` file.
 
-![](https://cdn.discordapp.com/attachments/806194434117992499/831071411191414814/9.png)
+![](https://i.postimg.cc/mr6hFySJ/Untitled.png)
 
 Now open `.env` file. All options are compulsory.
 - TOKEN: Your bot token
