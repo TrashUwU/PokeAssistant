@@ -5,7 +5,7 @@ PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Po
 ### Developer
 TrashUwU#8019
 
-![](https://cdn.discordapp.com/attachments/764159382941728830/831117749187117086/Spawn.png)
+![](https://cdn.discordapp.com/attachments/764159382941728830/831835413949317130/Main.png)
 
 ### How does it work?
 It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
