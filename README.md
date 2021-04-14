@@ -28,6 +28,13 @@ https://discord.gg/CtXvFj9yPq
 - Pokemon dataset updates automatically (But if the code gets updated, you need to copy the updated code and paste it in your REPL)
 - Returns 2-3 Pokemons as prediction
 
+## Premium Features
+- Faster Prediction (Reduced 4000ms waiting time)
+- Decreased rate limit to 20 seconds
+- No ads
+- Final Prediction
+- Pings a specific role when rare pokemons spawn
+
 ## Bot Installation Guide Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
