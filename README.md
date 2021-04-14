@@ -7,7 +7,7 @@ TrashUwU#8019
 
 ![](https://cdn.discordapp.com/attachments/735938202782924952/831890258223956018/20210414_195332.jpg)
 
-[Skip to Installation](/#bot-installation-guide-guide)
+[Skip to Installation](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#bot-installation-guide-guide)
 
 ### How does it work?
 It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
