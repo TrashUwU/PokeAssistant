@@ -19,6 +19,8 @@ It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against 
 Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
+### Is it harmful?
+The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not leak your bot token.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
@@ -128,6 +130,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
 - The bot's accuracy is 80%
+- Do not leak the bot token
 - Do not edit the code, because it will break the whole bot :/
 
 ### Get Premium
