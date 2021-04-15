@@ -151,7 +151,7 @@ Star the repository, refer your friends to this Github repository! Join the supp
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it is compulsory not optional.
-For updating, copy the code of [index.js](/src/index.js) and remove everything from the index.js of your REPL. Now paste the code.
+For updating, copy the code of [index.js](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) and remove everything from the index.js of your REPL. Now paste the code.
 
 
 ### Made by TrashUwU#8019
