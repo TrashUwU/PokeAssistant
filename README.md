@@ -44,7 +44,7 @@ So here the guide exists to teach you how.
 
 Mobile user? Thanks to ***Techie Gaurav*** for uploading it!
 
-[![](https://cdn.discordapp.com/attachments/830465086162075728/832104822076473344/0.png)](https://www.youtube.com/watch?v=5K_muzPbpmc) 
+[![](https://cdn.discordapp.com/attachments/830465086162075728/832104822076473344/0.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) 
 
 **Click the image to watch the mobile tutorial uploaded by [Techie Gaurav](http://youtube.com/techiegaurav)**
 
