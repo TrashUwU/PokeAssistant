@@ -41,7 +41,7 @@ Mobile user? Thanks to ***Techie Gaurav*** for uploading it!
 
 [![](https://cdn.discordapp.com/attachments/830465086162075728/832104822076473344/0.png)](https://www.youtube.com/watch?v=5K_muzPbpmc) 
 
-**Click the image to watch the mobile tutorial**
+**Click the image to watch the mobile tutorial uploaded by [Techie Gaurav](http://youtube.com/techiegaurav)**
 
 ### Step 1: Creating a bot account
 The first step in creating a bot is to create your own Discord application. The bot will use the Discord API, which requires the creation of an account for authentication purposes. Don't worry though, it's super simple.
