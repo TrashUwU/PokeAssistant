@@ -95,8 +95,10 @@ Click on `Secrets (Environment Variables)` Tab.
 ![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
 Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`.
+
 Type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
-Type `OWNER` in the Key section and paste the your account ID in the Value section. Then click `Add new Secret`.
+
+Type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
 
 
 
