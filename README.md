@@ -12,15 +12,9 @@ TrashUwU#8019
 ### How does it work?
 It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
 ### Issues?
-Facing issues with the bot? Please create an Issue.
-### Why is the source code messed up?
-It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
-### Why can't I invite the bot instead of hosting it?
-Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
-### Want to help?
-Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
-### Is it harmful?
-The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
+Facing issues with the bot? Please create a Github Issue.
+### Quesions?
+Scroll down to [questions]() section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
@@ -142,5 +136,16 @@ Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Get Premium
 Join the support server and create a support ticket to contact the moderators. Premium can't be purchased with money.
+
+## Questions
+
+### Why is the source code messed up?
+It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
+### Why can't I invite the bot instead of hosting it?
+Discord does not verify bots that work against other bot(cheat bots). Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
+### Want to help?
+Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
+### Is it harmful?
+The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 
 ### Made by TrashUwU#8019
