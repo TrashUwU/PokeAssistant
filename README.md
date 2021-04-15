@@ -21,6 +21,7 @@ https://replit.com/@ButterTaurus/PokeAssistant
 https://discord.gg/CtXvFj9yPq
 
 ## Features
+- Harmless and Beginner-Friendly
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
 - Pokemon dataset updates automatically (But if the code gets updated, you will need to copy the updated code and paste it in your REPL)
