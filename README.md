@@ -76,7 +76,7 @@ Go to the **Bot** page and copy the token. Save it somewhere, you will need that
 
 ![](https://cdn.discordapp.com/attachments/660518707134595095/830720955277508628/5.png)
 
-Source: https://anidiots.guide/getting-started/getting-started-long-version
+
 ### Step 2: Hosting the bot
 The bot will be hosted on Replit, so you need to create a Replit account first: https://replit.com/login.
 #### Getting the code
