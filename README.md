@@ -1,7 +1,3 @@
-# Announcement
-### Repl.it just updated their `.env` sidebar, please wait for me to find a solution.
-
-
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo.
 ## Information
