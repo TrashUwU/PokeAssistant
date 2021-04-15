@@ -90,22 +90,15 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 (Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
-Create a `.env` file.
+Click on `Secrets (Environment Variables)` Tab.
 
-![](https://i.postimg.cc/mr6hFySJ/Untitled.png)
+![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
-Now open `.env` file. All options are compulsory.
-- TOKEN: Your bot token
-- OWNER: Your Account ID
-- CHANNEL: Channel ID where Pokétwo spawns, for multiple channels separate with `,` (no spacing)
+Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`.
+Type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
+Type `OWNER` in the Key section and paste the your account ID in the Value section. Then click `Add new Secret`.
 
 
-An example `.env` code would be:
-```
-TOKEN=NTU2NjQ2MjA1MDExMDAxMzQ1.D29B7Q.LcTk_nSujMXdVyFohpJpjF50odE
-CHANNEL=771967676951429150,771967676951429150,733971269527273492
-OWNER=663917469523843492
-```
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
 (Mobile users will click on console and click green **play** button to run)
