@@ -85,7 +85,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 (Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
-Create a `.env` file. Now open `.env` file.
+Create a `.env` file.
 
 ![](https://i.postimg.cc/mr6hFySJ/Untitled.png)
 
@@ -148,7 +148,8 @@ Star the repository, refer your friends to this Github repository! Join the supp
 ### Is it harmful?
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### How do I update the code?
-Copy the code of [index.js](/src/index.js) and remove everything from the index.js of your REPL. Now paste the code.
+Updating is optional. If the bot asks you to update, that means it is compulsory not optional.
+For updating, copy the code of [index.js](/src/index.js) and remove everything from the index.js of your REPL. Now paste the code.
 
 
 ### Made by TrashUwU#8019
