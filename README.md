@@ -90,7 +90,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 (Mobile users will click `files` button to see all files, all files will be visible to PC users by default)
-Click on `Secrets (Environment Variables)` Tab.
+Click on `Secrets (Environment Variables)` Tab. And Mobile users will, click Commands Tab, click dropdown menu if the body is blank; Click Secrets `(Environment Variables)` and type `TOKEN` in Key section and paste the bot token in Value section and Add Secret. Do the same with Values `CHANNEL` and `OWNER`, paste the Channel IDs of Pokemon spawning channels(Separate with `,` if there are many) and paste owner account ID.
 
 ![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
