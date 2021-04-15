@@ -14,7 +14,7 @@ It uses a light machine learning module, that can predict Pokémons in 5-7 secon
 ### Issues?
 Facing issues with the bot? Please create a Github Issue.
 ### Quesions?
-Scroll down to [questions]() section or join support server.
+Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#questions) section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
