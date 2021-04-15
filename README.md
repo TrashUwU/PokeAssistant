@@ -1,5 +1,5 @@
 # Announcement
-###Repl.it just updated their `.env` sidebar, please wait for me to find a solution.
+### Repl.it just updated their `.env` sidebar, please wait for me to find a solution.
 
 
 # PokéAssistant
