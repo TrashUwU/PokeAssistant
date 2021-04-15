@@ -147,5 +147,8 @@ Discord does not verify bots that work against other bot(cheat bots). Server lim
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
+### How do I update the code?
+Copy the code of [index.js](/src/index.js) and remove everything from the index.js of your REPL. Now paste the code.
+
 
 ### Made by TrashUwU#8019
