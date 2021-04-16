@@ -104,7 +104,7 @@ Type `OWNER` in the Key section and paste your account ID in the Value section. 
 (Mobile users will click on console and click green **play** button to run)
 (PC users will click Green **Run** Button.)
 
-The bot should be online now.
+The bot should be online now!
 
 ### Step 3: Keeping the bot online (Optional)
 Replit shuts down projects that are inactive for over 5 minutes. The current code should already keep it up, but some users feedback that it doesn't. We will be using Uptime Robot to keep it up here. Create an account first: https://uptimerobot.com/signUp.
