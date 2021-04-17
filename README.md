@@ -34,7 +34,7 @@ https://discord.gg/CtXvFj9yPq
 - Final Prediction
 - Pings a specific role when rare pokemons spawn
 
-## Bot Installation Guide Guide
+## Bot Installation Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
 
