@@ -125,7 +125,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - The bot will identify 1 pokemon every 40 seconds; if there are multiple spawns in 40 seconds, the bot will get rate limited
 - Reduce the number of channels in `.env` if the bot gets rate limited too many times
 - The bot must have permissions to send embeds
-- Upgraded/Premium bot includes decreased rate limits(1 pokemon every 15 seconds), no ads, pings a role if a rare pokemon has spawned(Coming Soon), gives final prediction and faster response
+- Upgraded/Premium bot includes decreased rate limits(1 pokemon every 15 seconds), no ads, pings a role if a rare pokemon has spawned, gives final prediction and faster response
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
 - The bot's accuracy is 80%
