@@ -44,6 +44,12 @@ Mobile user? Thanks to ***Techie Gaurav*** for uploading it!
 
 **Click the image to watch the mobile tutorial uploaded by [Techie Gaurav](http://youtube.com/techiegaurav)**
 
+### Step 0.5: Create a Github Account
+Visit https://github.com/join and create a Github Account.
+
+### Step 0.9: Star the repository
+Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star button!
+
 ### Step 1: Creating a bot account
 The first step in creating a bot is to create your own Discord application. The bot will use the Discord API, which requires the creation of an account for authentication purposes. Don't worry though, it's super simple.
 #### Creating the application
@@ -92,11 +98,11 @@ Click on `Secrets (Environment Variables)`
 
 ![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
-Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`.
+Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`. (Shown Above)
 
-Type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
+Just like TOKEN Key and Value, type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
 
-Type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
+Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
 
 
 
