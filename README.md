@@ -40,7 +40,7 @@ So here the guide exists to teach you how.
 
 Mobile user? Thanks to ***Techie Gaurav*** for uploading it!
 
-[![](https://img.youtube.com/vi/5K_muzPbpmc/0.jpg)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) 
+[![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) 
 
 **Click the image to watch the mobile tutorial uploaded by [Techie Gaurav](http://youtube.com/techiegaurav)**
 
