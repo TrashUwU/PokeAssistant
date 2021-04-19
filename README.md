@@ -31,6 +31,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction (Reduced 4000ms waiting time)
 - Decreased rate limit to 15 seconds, good for incense
 - No ads
+- Improved Accuracy
 - Final Prediction
 - Pings a specific role when rare pokemons spawn
 
