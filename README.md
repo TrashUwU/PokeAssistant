@@ -140,7 +140,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Do not edit the code, because it will break the whole bot :/
 
 ### Get Premium
-Join the support server and create a support ticket to contact the moderators. Premium can't be purchased with money.
+Participate in giveaways or boost the support server!
 
 ## Questions
 
