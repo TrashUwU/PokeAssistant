@@ -1,3 +1,6 @@
+⚠️ | Upgrade PokéAssistant to v1.0.2 for higher accuracy!
+:---: | :---:
+
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. No auto-catcher for now, because it's against Discord TOS, TwT.
 ## Information
