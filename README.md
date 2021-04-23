@@ -19,7 +19,7 @@ It uses a light machine learning module, that can predict Pokémons in 5-7 secon
 ### Issues?
 Facing issues with the bot? Please create a Github Issue.
 ### Quesions?
-Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#questions) section or join support server.
+Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#questions) section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
@@ -115,7 +115,7 @@ Premium Users: Same as above, type `ROLE` in the Key section and paste a Role Na
 
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
-(Mobile users will click on console and click green **play** button to run)
+(Mobile users will click green **play** button to run)
 (PC users will click Green **Run** Button.)
 
 The bot should be online now!
@@ -152,7 +152,7 @@ Participate in giveaways or boost the support server!
 ## Questions
 
 ### Why is the source code messed up?
-It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it. But you can run it without problem!
+It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it and also don't want other coders to make an auto-catcher with the help of PokeAssistant.  But you can run it without problem!
 ### Why can't I invite the bot instead of hosting it?
 Discord does not verify bots that work against other bots. Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
 ### Want to help?
