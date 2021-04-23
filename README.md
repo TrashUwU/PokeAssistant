@@ -105,6 +105,8 @@ Just like TOKEN Key and Value, type `CHANNEL` in the Key section and paste the C
 
 Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
 
+Premium Users: Same as above, type `ROLE` in the Key section and paste a Role Name or Role ID in the Value section. Then click `Add new Secret`. The bot will ping the role if a rare Pokemon Spawns.
+
 
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
