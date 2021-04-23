@@ -49,7 +49,7 @@ Mobile user? Thanks to ***Techie Gaurav*** and ***Oblivious*** for uploading it!
 
 [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) 
 
-**Click the image to watch the mobile tutorial uploaded by [Oblivious](http://youtube.com/techiegaurav)**
+**Click the image to watch the mobile tutorial uploaded by **Oblivious**.
 
 ### Step 0.5: Create a Github Account
 Visit https://github.com/join and create a Github Account.
