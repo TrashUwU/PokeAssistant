@@ -1,5 +1,5 @@
 ⚠️ | I am rewriting PokéAssistant to improve it's accuracy. Looks like Pokétwo `kinda` patched it, fix coming!
-
+:---: | :---:
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. No auto-catcher for now, because it's against Discord TOS, TwT.
 ## Information
