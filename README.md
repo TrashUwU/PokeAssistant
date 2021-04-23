@@ -1,5 +1,4 @@
-⚠️ | Premium User? Upgrade your PokeAssistant now! Finally the Pinger has arrived, click [here](https://github.com/TrashUwU/PokeAssistant/releases/tag/v1.0.2) to read more.
-:---: | :---:
+⚠️ | I am rewriting PokéAssistant to improve it's accuracy. Looks like Pokétwo `kinda` patched it, fix coming!
 
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. No auto-catcher for now, because it's against Discord TOS, TwT.
