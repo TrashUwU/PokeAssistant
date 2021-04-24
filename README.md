@@ -1,4 +1,4 @@
-⚠️ | I am rewriting PokéAssistant to improve it's accuracy. Looks like Pokétwo `kinda` patched it because its accuracy dropped from 90% to 86%, fix coming! It's still worth trying.
+⚠️ | PokeAssistant 2.0 released. Update your code now! Click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :---: | :---:
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. No auto-catcher for now, because it's against Discord TOS, TwT.
