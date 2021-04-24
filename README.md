@@ -5,7 +5,7 @@ A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. N
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one (Free) and will also ping a role if rare pokemons spawn (Premium Only). As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ## License
-PokéAssistant does not have a license. This means, you do `NOT` have permission to redistribute or modify this code. Since there is no license, I retain all rights to the source code and no one shall reproduce, distribute, or create derivative works from it.
+There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it.
 ### Developer
 TrashUwU#8019
 
