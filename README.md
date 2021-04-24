@@ -161,7 +161,7 @@ Star the repository, refer your friends to this Github repository! Join the supp
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it is compulsory not optional.
-For updating, copy the code of [index.js](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) and paste it in the index.js of your REPL. Make sure to clear all codes in your REPL's index.js before pasting.
+For updating, copy the code of [index.js](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) and paste it in the `index.js` of your REPL. Make sure to clear all codes in your REPL's `index.js` before pasting. Delete `json.sqlite` (Optional). Now press run/play button!
 
 
 ### Made by TrashUwU#8019
