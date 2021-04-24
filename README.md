@@ -1,4 +1,4 @@
-⚠️ | PokeAssistant 2.0 released. Update your code now! Click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
+⚠️ | PokeAssistant 2.0 released; contains new UI; bug fixes; 90% accuracy. Update your code now! Click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :---: | :---:
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo. No auto-catcher for now, because it's against Discord TOS, TwT.
