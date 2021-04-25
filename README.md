@@ -10,7 +10,7 @@ There is no license for PokéAssistant. This ensures you are not allowed to redi
 TrashUwU#8019
 
 
-![](https://cdn.discordapp.com/attachments/691539901664985108/835804967101005874/Poketwo.gifo)
+![](https://cdn.discordapp.com/attachments/691539901664985108/835804967101005874/Poketwo.gif)
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 
