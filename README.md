@@ -6,16 +6,16 @@ A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo wi
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one (Free) and will also ping a role if rare pokémons spawn (Premium Only). As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it.
+
+## Get Premium
+Participate in giveaways or boost the support server or get level 20 in the support server!
+
 ### Developer
 TrashUwU#8019
-
 
 ![](https://cdn.discordapp.com/attachments/691539901664985108/835804967101005874/Poketwo.gif)
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
-
-### How does it work?
-It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
 ### Issues?
 Facing issues with the bot? Please create a Github Issue.
 ### Questions?
@@ -138,15 +138,11 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - The bot will identify 1 pokemon every 40 seconds; if there are multiple spawns in 40 seconds, the bot will get rate limited
 - Reduce the number of channels in `.env` if the bot gets rate limited too many times
 - The bot must have permissions to send embeds
-- Upgraded/Premium bot includes decreased rate limits(1 pokemon every 15 seconds), no ads, pings a role if a rare pokemon has spawned, gives final prediction and faster response
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
 - The bot's accuracy is 80%
 - Do not show the bot token to others
 - Do not edit the code, because it will break the whole bot :/
-
-### Get Premium
-Participate in giveaways or boost the support server!
 
 ## Premium Extensions
 > **These are not suitable for Free PokeAssistants. Please get Premium to use these.**
