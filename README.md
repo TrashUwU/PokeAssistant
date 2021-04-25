@@ -18,7 +18,7 @@ TrashUwU#8019
 It uses a light machine learning module, that can predict Pokémons in 5-7 seconds using only 500 MB ram!
 ### Issues?
 Facing issues with the bot? Please create a Github Issue.
-### Quesions?
+### Questions?
 Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#questions) section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
