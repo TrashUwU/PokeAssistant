@@ -148,9 +148,11 @@ Finally click **Create Monitor** and you're done! Done with everything!
 Participate in giveaways or boost the support server!
 
 ## Premium Extensions
-### Identify from all Channels
-> The bot will identify the Pokémon if it finds a spawn in any Channel or Server.
-**To setup**: Open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`.
+
+| Name      | Description | Setup   |
+| :---        |    :----:   |          :---: |
+| **Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | Open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`.   |
+| **Role Ping**   | The bot will ping a specific role if an Alolan, Legendary or Mythical Pokemon Spawns.     | Open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokemon spawns.   |
 
 ## Questions
 
