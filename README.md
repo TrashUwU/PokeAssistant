@@ -37,7 +37,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction (From 4000ms to 1000ms)
 - Decreased rate limit, good for incense (From 40000ms to 5000ms)
 - No ads
-- Improved Accuracy
+- Identify Pokémons from all channels
 - Final Prediction
 - Pings a specific role when rare pokemons spawn
 
@@ -111,9 +111,6 @@ Just like TOKEN Key and Value, type `CHANNEL` in the Key section and paste the C
 
 Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
 
-Premium Users: Same as above, type `ROLE` in the Key section and paste a Role Name or Role ID in the Value section. Then click `Add new Secret`. The bot will ping the role if a rare Pokemon Spawns.
-
-
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
 (Mobile users will click green **play** button to run)
@@ -149,6 +146,11 @@ Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Get Premium
 Participate in giveaways or boost the support server!
+
+## Premium Extensions
+### Identify from all Channels
+> The bot will identify the Pokémon if it finds a spawn in any Channel or Server.
+**To setup**: Open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`.
 
 ## Questions
 
