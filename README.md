@@ -29,7 +29,8 @@ https://discord.gg/CtXvFj9yPq
 - Harmless and Beginner-Friendly
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
-- Auto-update code
+- Auto-updates code
+- Uses AI to identify Pokémons
 - Returns 2-3 Pokemons as prediction
 
 ## Premium Features
