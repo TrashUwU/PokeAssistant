@@ -3,7 +3,7 @@
 # PokéAssistant
 A Pokétwo Hack/Assistant Bot to help you with catching Pokémons on Pokétwo with many other features! No auto-catcher for now, because it's against Discord TOS, TwT.
 ## Information
-PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one (Free) and will also ping a role if rare pokemons spawn (Premium Only). As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
+PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one (Free) and will also ping a role if rare pokémons spawn (Premium Only). As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it.
 ### Developer
@@ -155,7 +155,7 @@ Participate in giveaways or boost the support server!
 | :---        |    :----:   |          :---: |
 | **Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | Open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`.   |
 | **Role Ping**   | The bot will ping a specific role if an Alolan, Legendary or Mythical Pokémon Spawns.     | Open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokémon spawns.   |
-| **Pokemon Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | Open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt.   |
+| **Poké Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | Open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt.   |
 
 ## Questions
 
