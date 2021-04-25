@@ -34,8 +34,8 @@ https://discord.gg/CtXvFj9yPq
 - Returns 2-3 Pokemons as prediction
 
 ## Premium Features
-- Faster Prediction (Reduced 4000ms waiting time)
-- Decreased rate limit to 5 seconds, good for incense
+- Faster Prediction (From 4000ms to 1000ms)
+- Decreased rate limit, good for incense (From 40000ms to 5000ms)
 - No ads
 - Improved Accuracy
 - Final Prediction
