@@ -149,7 +149,8 @@ Finally click **Create Monitor** and you're done! Done with everything!
 Participate in giveaways or boost the support server!
 
 ## Premium Extensions
-> **These are not suitable for Free PokeAssistants.**
+> **These are not suitable for Free PokeAssistants. Please get Premium to use these.**
+
 | Name      | Description | Setup   |
 | :---        |    :----:   |          :---: |
 | **Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | Open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`.   |
