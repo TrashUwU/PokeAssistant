@@ -35,7 +35,7 @@ https://discord.gg/CtXvFj9yPq
 
 ## Premium Features
 - Faster Prediction (Reduced 4000ms waiting time)
-- Decreased rate limit to 15 seconds, good for incense
+- Decreased rate limit to 5 seconds, good for incense
 - No ads
 - Improved Accuracy
 - Final Prediction
