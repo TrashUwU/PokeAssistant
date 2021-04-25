@@ -29,7 +29,7 @@ https://discord.gg/CtXvFj9yPq
 - Harmless and Beginner-Friendly
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
-- Pokemon dataset updates automatically (But if the code gets updated, you will need to copy the updated code and paste it in your REPL)
+- Auto-update code
 - Returns 2-3 Pokemons as prediction
 
 ## Premium Features
