@@ -34,13 +34,14 @@ https://discord.gg/CtXvFj9yPq
 - Returns 2-3 Pokemons as prediction
 
 ## Premium Features
-### Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) to know how to install Premium Extensions
+### Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) to know how to install Premium Features/Extensions
 - Faster Prediction (From 4000ms to 1000ms)
 - Decreased rate limit, good for incense (From 40000ms to 5000ms)
 - No ads
 - Identify Pokémons from all channels
 - Final Prediction
-- Pings a specific role when rare pokemons spawn
+- Pings you, if your Shiny Hunt Pokémon spawns.
+- Pings a specific role when rare Pokémons spawn.
 
 ## Bot Installation Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
