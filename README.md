@@ -14,7 +14,7 @@ Participate in giveaways or boost the support server or get level 20 in the supp
 ### Developer
 TrashUwU#8019
 
-![](https://cdn.discordapp.com/attachments/691539901664985108/835804967101005874/Poketwo.gif)
+![](https://cdn.discordapp.com/attachments/694227466964697089/836248568591286382/Slash.gif)
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 ### Issues?
