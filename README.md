@@ -113,6 +113,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 #### Configuration
 
 **PC Users**: Click on `Secrets (Environment Variables)`, it's a Lock Icon
+
 **Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click `Secrets (Environment Variables)`
 
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836619338051878923/12.jpg)
