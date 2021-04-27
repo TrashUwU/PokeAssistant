@@ -72,7 +72,7 @@ Click on **Create an application**. This brings you to the following page, in wh
 ![](https://cdn.discordapp.com/attachments/660518707134595095/830720419568418857/2.png)
 
 #### Creating the bot account
-After creating the application, we need to create the Bot User. Go to the Bot section on the left, then click on **Add Bot**, then **Yes, Do it**.
+After creating the application, we need to create the Bot User. Go to the `Bot` section on the left, then click on **Add Bot**, then **Yes, Do it**.
 
 ![](https://cdn.discordapp.com/attachments/660518707134595095/830720692583923723/3.png)
 
@@ -81,6 +81,16 @@ There's a few things you can change here.
 - Icon: Change the bot's avatar
 - Public bot: Toggles the ability for other users to add your bot to their server.
 - Require Oauth2 Code Grant: Don't check this. Just, don't.
+
+After doing these, scroll down,
+
+![](https://cdn.discordapp.com/attachments/696949237786738712/836614489712754749/11.jpg)
+
+**Enable those things shown in Pic-**
+- Presence Intent
+- Server Members Intent
+- Click Save
+
 #### Adding to your server
 To generate the invite link, click on **Oauth2** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
 
