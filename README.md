@@ -112,16 +112,30 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Configuration
 
-**PC Users**: Click on `Secrets (Environment Variables), it's a Lock Icon`
+**PC Users**: Click on `Secrets (Environment Variables)`, it's a Lock Icon
+**Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click `Secrets (Environment Variables)`
 
-(**Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click Secrets `(Environment Variables)` and type `TOKEN` in Key section and paste the bot token in Value section and Add Secret. Do the same with Values `CHANNEL` and `OWNER`, paste the Channel IDs of Pokémon spawning channels(Separate with `,` if there are many) and paste owner account ID.)
+![](https://cdn.discordapp.com/attachments/696949237786738712/836619338051878923/12.jpg)
 
-![](https://i.postimg.cc/DZXmC2Jg/8.png)
+#### First Secret
+- Click Secrets
+- Type `TOKEN` in Key Section
+- Paste Bot Token in Value Section
+- Click Save
 
-> (**PC Users**: Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`. (Shown Above)
-Just like TOKEN Key and Value, type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
-Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.)
+![](https://cdn.discordapp.com/attachments/696949237786738712/836619330636480553/13.jpg)
 
+#### Second Secret
+- Type `CHANNEL` in Key Section
+- Paste the Channel IDs (Separate with `,` if there are more than one) of Pokémon Spawning Channel in Value Section
+- Click Save
+
+![](https://cdn.discordapp.com/attachments/696949237786738712/836619328748257310/14.jpg)
+
+#### Third Secret
+- Type `OWNER` in Key Section
+- Paste your Account ID in Value Section
+- Click Save
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
 (Mobile users will click green **play** button to run)
