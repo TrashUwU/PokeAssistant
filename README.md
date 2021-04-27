@@ -147,7 +147,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Do not edit the code, because it will break the whole bot :/
 
 ## Premium Extensions
-> **These are not suitable for Free PokéAssistants. Please get Premium to use these.**
+> **These are not suitable for Free PokéAssistants. Please get Premium to use these. You can try using them on Free PokéAssistants**
 
 | Name      | Description | Setup   |
 | :---:        |    :---:   | :---: |
@@ -166,8 +166,8 @@ Star the repository, refer your friends to this Github repository! Join the supp
 ### Is it harmful?
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### How do I update the code?
-Updating is optional. If the bot asks you to update, that means it is compulsory not optional.
-For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) and paste it in the `index.js` of your REPL. Make sure to clear all codes in your REPL's `index.js` before pasting. Delete `json.sqlite` (Optional). Now press run/play button!
+Updating is optional. If the bot asks you to update, that means it is compulsory and not optional.
+For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. (**Optional**: Delete json.sqlite). Now wait 30-60 minutes for the code to restart. Or restart it yourself by pressing play/run button. Make sure the bot is working.
 
 
 ### Made by TrashUwU#8019
