@@ -20,7 +20,7 @@ TrashUwU#8019
 ### Issues?
 Facing issues with the bot? Please create a Github Issue.
 ### Questions?
-Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md#questions) section or join support server.
+Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/#questions-1) section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
 ### Server invite link
