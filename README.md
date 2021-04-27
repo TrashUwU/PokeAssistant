@@ -108,11 +108,9 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 ![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
-Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`. (Shown Above)
-
+> (**PC Users**: Type `TOKEN` in the Key section and paste the bot token in the Value section. Then click `Add new Secret`. (Shown Above)
 Just like TOKEN Key and Value, type `CHANNEL` in the Key section and paste the Channel IDs(Separate with `,` without spaces if multiple channels) in the Value section. Then click `Add new Secret`.
-
-Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.
+Same as above, type `OWNER` in the Key section and paste your account ID in the Value section. Then click `Add new Secret`.)
 
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
