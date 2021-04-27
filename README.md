@@ -147,7 +147,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Do not edit the code, because it will break the whole bot :/
 
 ## Premium Extensions
-> **These are not suitable for Free PokeAssistants. Please get Premium to use these.**
+> **These are not suitable for Free PokéAssistants. Please get Premium to use these.**
 
 | Name      | Description | Setup   |
 | :---:        |    :---:   | :---: |
