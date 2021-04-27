@@ -57,11 +57,14 @@ Mobile user? Thanks to ***Techie Gaurav*** and ***Oblivious*** for uploading it!
 ### Step 0.5: Create a Github Account
 Visit https://github.com/join and create a Github Account.
 
-### Step 0.9: Star the repository
+### Step 0.7: Star the repository
 Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star button!
 
+### Step 0.9: Enable Developer Mode
+In The Discord application go to Settings > Appearance > Turn on `Developer Mode`.
+
 ### Step 1: Creating a bot account
-The first step in creating a bot is to create your own Discord application. The bot will use the Discord API, which requires the creation of an account for authentication purposes. Don't worry though, it's super simple.
+Don't worry, it's super simple.
 #### Creating the application
 To create the application, head to https://discord.com/developers/applications/. Log in, and you'll reach a page that may look like this:
 
@@ -179,7 +182,6 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **🏹 Poké Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Wait for it to restart after 30 minutes  |
 
 ## Questions
-
 ### Why is the source code messed up?
 It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it and also don't want other coders to make an auto-catcher with the help of PokeAssistant.  But you can run it without problem!
 ### Why can't I invite the bot instead of hosting it?
