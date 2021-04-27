@@ -32,7 +32,7 @@ https://discord.gg/CtXvFj9yPq
 - Can be hosted 24/7 on cloud or on PC
 - Auto-updates code
 - Uses AI to identify Pokémons
-- Returns 2-3 Pokemons as prediction
+- Returns 1-3 Pokémons as prediction
 
 ## Premium Features
 ### Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) to know how to install Premium Features/Extensions
@@ -104,7 +104,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 **PC Users**: Click on `Secrets (Environment Variables), it's a Lock Icon`
 
-(**Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click Secrets `(Environment Variables)` and type `TOKEN` in Key section and paste the bot token in Value section and Add Secret. Do the same with Values `CHANNEL` and `OWNER`, paste the Channel IDs of Pokemon spawning channels(Separate with `,` if there are many) and paste owner account ID.)
+(**Mobile Users**: Click Commands Tab, click dropdown menu if the body is blank; Click Secrets `(Environment Variables)` and type `TOKEN` in Key section and paste the bot token in Value section and Add Secret. Do the same with Values `CHANNEL` and `OWNER`, paste the Channel IDs of Pokémon spawning channels(Separate with `,` if there are many) and paste owner account ID.)
 
 ![](https://i.postimg.cc/DZXmC2Jg/8.png)
 
@@ -137,7 +137,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Keep in Mind
 - If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl or the bot will stop working
-- The bot will identify 1 pokemon every 40 seconds; if there are multiple spawns in 40 seconds, the bot will get rate limited
+- The bot will identify 1 Pokémon every 40 seconds; if there are multiple spawns in 40 seconds, the bot will get rate limited
 - Reduce the number of channels in `.env` if the bot gets rate limited too many times
 - The bot must have permissions to send embeds
 - Make sure `.env` is not empty and information provided there is correct
