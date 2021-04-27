@@ -89,7 +89,7 @@ After doing these, scroll down,
 **Enable those things shown in Pic-**
 - Presence Intent
 - Server Members Intent
-- Click Save
+- Click `Save Changes`
 
 #### Adding to your server
 To generate the invite link, click on **Oauth2** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
@@ -121,21 +121,21 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 - Click Secrets
 - Type `TOKEN` in Key Section
 - Paste Bot Token in Value Section
-- Click Save
+- Click `Add new Secret`
 
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836619330636480553/13.jpg)
 
 #### Second Secret
 - Type `CHANNEL` in Key Section
 - Paste the Channel IDs (Separate with `,` if there are more than one) of Pokémon Spawning Channel in Value Section
-- Click Save
+- Click `Add new Secret`
 
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836619328748257310/14.jpg)
 
 #### Third Secret
 - Type `OWNER` in Key Section
 - Paste your Account ID in Value Section
-- Click Save
+- Click `Add new Secret`
 
 ![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
 (Mobile users will click green **play** button to run)
