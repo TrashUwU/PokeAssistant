@@ -42,6 +42,7 @@ https://discord.gg/CtXvFj9yPq
 - Identify Pokémons from all channels
 - Final Prediction
 - Pings you, if your Shiny Hunt Pokémon spawns.
+- Pings other members in your server, if their Shiny Hunt Pokémon spawns.
 - Pings a specific role when rare Pokémons spawn.
 
 ## Bot Installation Guide
