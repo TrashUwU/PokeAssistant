@@ -122,7 +122,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836619338051878923/12.jpg)
 
 #### First Secret
-- Click Secrets
+- Click `Secrets (Environment Variables)`
 - Type `TOKEN` in Key Section
 - Paste Bot Token in Value Section
 - Click `Add new Secret`
