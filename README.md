@@ -37,7 +37,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction (From 4000ms to 1000ms) **(Premium)**
 - Decreased rate limit, good for incense (From 40000ms to 5000ms) **(Premium)**
 - No ads **(Premium)**
-- Identify Pokémons from all channels **(Premium)**
+- Identify Pokémons from all channels and servers instead of selected one **(Premium)**
 - Final Prediction **(Premium)**
 - Pings you, if your Shiny Hunt Pokémon spawns. **(Premium)**
 - Pings other members in your server, if their Shiny Hunt Pokémon spawns. **(Premium)**
