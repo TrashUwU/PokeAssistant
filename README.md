@@ -192,7 +192,7 @@ Star the repository, refer your friends to this Github repository! Join the supp
 The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it is compulsory and not optional.
-For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. (**Optional**: Delete json.sqlite). Now wait 30-60 minutes for the code to restart. Or restart it yourself by pressing play/run button. Make sure the bot is working.
+For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure it now looks like a square. (Not a triangle)
 
 
 ### Made by TrashUwU#8019
