@@ -130,7 +130,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 #### Second Secret
 - Type `CHANNEL` in Key Section
-- Paste the Channel IDs (Separate with `,` if there are more than one) of Pokémon Spawning Channel in Value Section
+- Paste the Channel IDs (Separate with `,` without space if there are more than one) of Pokémon Spawning Channels in Value Section
 - Click `Add new Secret`
 
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836619328748257310/14.jpg)
