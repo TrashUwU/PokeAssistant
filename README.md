@@ -27,23 +27,21 @@ https://replit.com/@ButterTaurus/PokeAssistant
 https://discord.gg/CtXvFj9yPq
 
 ## Features
+Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) to know how to install Premium Features/Extensions
 - Harmless and Beginner-Friendly
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
 - Auto-updates code
 - Uses AI to identify Pokémons
 - Returns 1-3 Pokémons as prediction
-
-## Premium Features
-### Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) to know how to install Premium Features/Extensions
-- Faster Prediction (From 4000ms to 1000ms)
-- Decreased rate limit, good for incense (From 40000ms to 5000ms)
-- No ads
-- Identify Pokémons from all channels
-- Final Prediction
-- Pings you, if your Shiny Hunt Pokémon spawns.
-- Pings other members in your server, if their Shiny Hunt Pokémon spawns.
-- Pings a specific role when rare Pokémons spawn.
+- Faster Prediction (From 4000ms to 1000ms) **(Premium)**
+- Decreased rate limit, good for incense (From 40000ms to 5000ms) **(Premium)**
+- No ads **(Premium)**
+- Identify Pokémons from all channels **(Premium)**
+- Final Prediction **(Premium)**
+- Pings you, if your Shiny Hunt Pokémon spawns. **(Premium)**
+- Pings other members in your server, if their Shiny Hunt Pokémon spawns. **(Premium)**
+- Pings a specific role when rare Pokémons spawn. **(Premium)**
 
 ## Bot Installation Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
