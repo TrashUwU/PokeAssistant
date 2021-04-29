@@ -1,7 +1,7 @@
 ⚠️ | PokéAssistant 2.0 released. Contains new UI, bug fixes, 90% accuracy and auto-updater. If your bot is asking you to update, click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :--- | :---
 # PokéAssistant
-A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! According to Pokétwo moderators, features of this bot are harmless and not against Discord or Pokétwo TOS! No auto-catcher for now, because it's against Discord TOS, TwT.
+A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! No auto-catcher for now, because it's against Discord TOS, TwT.
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
