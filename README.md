@@ -1,6 +1,10 @@
 ⚠️ | PokéAssistant 2.0 released. Contains new UI, bug fixes, 90% accuracy and auto-updater. If your bot is asking you to update, click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :--- | :---
+
+[![Forks](https://img.shields.io/badge/REPL%20Forks-400+-green.svg?style=flat)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/Premium%20Users-13-blue.svg?style=flat)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://discordapp.com/api/guilds/709340618538614795/embed.png)](https://discord.gg/CtXvFj9yPq)
+
 # PokéAssistant
+
 A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! No auto-catcher for now, because it's against Discord TOS, TwT.
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 ## Information
@@ -23,7 +27,7 @@ Facing issues with the bot? Please create a Github Issue.
 Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/#questions-1) section or join support server.
 ### Bot Repl
 https://replit.com/@ButterTaurus/PokeAssistant
-### Server invite link
+### Support Server Invite Link
 https://discord.gg/CtXvFj9yPq
 
 ## Features
