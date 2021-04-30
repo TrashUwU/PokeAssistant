@@ -5,7 +5,10 @@
 
 # PokéAssistant
 
-A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! This is not against Discord TOS.
+A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more!
+
+_***This bot is `not` against Discord TOS***_.
+
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
@@ -178,7 +181,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 ## Premium Extensions
 > **These are not suitable for Free PokéAssistants. Please get Premium to use these. You can try using them on Free PokéAssistants**
 
-| Name      | Description | Setup   |
+| **Name**      | **Description** | **Setup**   |
 | :---:        |    :---:   | :---: |
 | **🔍 Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`. Click `Save`. Wait for it to restart after 30 minutes.  |
 | **🏓 Role Ping**   | The bot will ping a specific role if an Alolan, Legendary or Mythical Pokémon Spawns.     | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokémon spawns.  Click `Save`. Wait for it to restart after 30 minutes |
