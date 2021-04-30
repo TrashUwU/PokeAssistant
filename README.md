@@ -5,7 +5,7 @@
 
 # PokéAssistant
 
-A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! No auto-catcher for now, because it's against Discord TOS, TwT.
+A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns, pings you if your Shiny Hunt Pokémon spawns and more! This is not against Discord TOS.
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
@@ -193,7 +193,7 @@ Discord does not verify bots that work against other bots. Server limit for unve
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
-The bot is completely safe. You will not get banned from Pokétwo or Discord. But do not show your bot token to others.
+The bot is not against Discord TOS. But do not show your bot token to others.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it is compulsory and not optional.
 For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
