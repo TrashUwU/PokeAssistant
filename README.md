@@ -175,7 +175,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - The bot must have permissions to send embeds
 - Make sure `.env` is not empty and information provided there is correct
 - Make sure the bot can DM the owner
-- The bot's accuracy is 80%
+- The bot's accuracy is 96% ~~(Probably didn't calculate)~~
 - Do not show the bot token to others
 - Do not edit the code, because it will break the whole bot :/
 
