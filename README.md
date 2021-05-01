@@ -1,4 +1,4 @@
-⚠️ | PokéAssistant 2.0 released. Contains new UI, bug fixes, 90% accuracy and auto-updater. If your bot is asking you to update, click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
+⚠️ | PokéAssistant 2.0 released. Contains new UI, bug fixes, 90% accuracy, auto-updater and Premium Features. If your bot is asking you to update, click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :--- | :---
 
 [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fpremium)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
