@@ -1,7 +1,7 @@
 ⚠️ | PokéAssistant 2.0 released. Contains new UI, bug fixes, 90% accuracy and auto-updater. If your bot is asking you to update, click [here](https://github.com/TrashUwU/PokeAssistant#how-do-i-update-the-code) to update.
 :--- | :---
 
-[![Forks](https://img.shields.io/badge/REPL%20Forks-400+-green.svg?style=flat)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/Premium%20Users-13-blue.svg?style=flat)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/badge/dynamic/json?color=%237289da&label=Discord&query=presence_count&suffix=%20Online&url=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F709340618538614795%2Fwidget.json?style=for-the-badge&logo=discord)](https://discord.gg/CtXvFj9yPq)
+[![Forks](https://img.shields.io/badge/REPL%20Forks-516-green.svg?style=flat)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/Premium%20Users-13-blue.svg?style=flat)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/badge/dynamic/json?color=%237289da&label=Discord&query=presence_count&suffix=%20Online&url=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F709340618538614795%2Fwidget.json?style=for-the-badge&logo=discord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
