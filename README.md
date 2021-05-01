@@ -18,7 +18,7 @@ PokéLegends | ❤️ Sponsor |
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ## License
-There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code or [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
+There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
 ## Free Premium
 Participate in giveaways or boost the support server or get level 20 in the support server!
 
