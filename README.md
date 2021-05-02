@@ -45,10 +45,13 @@ https://discord.gg/CtXvFj9yPq
 - Auto-updates code
 - Uses AI to identify Pokémons
 - Returns 1-3 Pokémons as prediction
-- No ads
-- Pings you, if your Shiny Hunt Pokémon spawns.
-- Pings other members in your server, if their Shiny Hunt Pokémon spawns.
-- Pings a specific role when rare Pokémons spawn.
+- Pings you, if your Shiny Hunt Pokémon spawns
+- Pings other members in your server, if their Shiny Hunt Pokémon spawns
+- Pings a specific role when rare Pokémons spawn
+- No ads **(Premium)**
+- Faster Prediction **(Premium)**
+- Decreased Rate Limit **(Premium)**
+
 
 ## Bot Installation Guide
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
