@@ -206,5 +206,4 @@ The bot is not against Discord TOS. But do not show your bot token to others.
 Updating is optional. If the bot asks you to update, that means it's a push-over (not optional) you need to update the code or the bot will not work.
 For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
 
-
-### Made by TrashUwU#8019
+## Made by TrashUwU#8019
