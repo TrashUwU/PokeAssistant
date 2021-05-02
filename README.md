@@ -58,11 +58,11 @@ https://discord.gg/CtXvFj9yPq
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
 
-Mobile user? Thanks to ***Techie Gaurav*** and ***Oblivious*** for uploading it!
+Mobile user? Thanks to **Oblivious** for uploading it!
 
 [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) 
 
-**Click the image to watch the mobile tutorial uploaded by **Oblivious**.
+Click the image or [here](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) to watch the mobile tutorial.
 
 ### Step 0.5: Create a Github Account
 Visit https://github.com/join and create a Github Account.
