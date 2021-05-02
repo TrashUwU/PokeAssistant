@@ -68,6 +68,8 @@ Mobile user? Thanks to ***Techie Gaurav*** and ***Oblivious*** for uploading it!
 Visit https://github.com/join and create a Github Account.
 
 ### Step 0.7: Star the repository
+![](https://images-ext-2.discordapp.net/external/FcVNBjEo13wE7x5Rg2wjz9U2xvqAk33hm9Tcw0DtDt8/https/res.cloudinary.com/practicaldev/image/fetch/s--MJisiJsL--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https%3A//thepracticaldev.s3.amazonaws.com/i/2nn6mhp57inp6rdxarzt.png?width=284&height=52)
+
 Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star button!
 
 ### Step 0.9: Enable Developer Mode
