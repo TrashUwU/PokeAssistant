@@ -38,7 +38,7 @@ https://replit.com/@ButterTaurus/PokeAssistant
 https://discord.gg/CtXvFj9yPq
 
 ## Features
-### Read [this](https://github.com/TrashUwU/PokeAssistant#premium-extensions) if your bot is working and you want to install more features.
+### Read [this](https://github.com/TrashUwU/PokeAssistant#extra-features) if your bot is working and you want to install more features.
 - Harmless and Beginner-Friendly
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
