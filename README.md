@@ -60,7 +60,7 @@ So here the guide exists to teach you how.
 
 | Video Tutorial |
 :---:
-| Mobile user? Thanks to **Oblivious** for making it! |
+| Mobile user? Thanks to [Oblivious](https://github.com/ObliviousDonkey) for making it! **Thumbail**: [KhanManan](https://github.com/Khanmanan) |
 | [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) |
 Click the image or [here](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) to watch the mobile tutorial. |
 
