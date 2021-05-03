@@ -62,7 +62,7 @@ So here the guide exists to teach you how.
 :---:
 | Mobile user? Thanks to [Oblivious](https://github.com/ObliviousDonkey) for making it! **Thumbail**: [KhanManan](https://github.com/Khanmanan) |
 | [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://drive.google.com/file/d/13eDlcg-GPBvutlIey9Ms5g4v9JhAIapN/view?usp=drivesdk) |
-Click the image or [here](https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=drivesdk) to watch the mobile tutorial. |
+Click the image or [here](https://drive.google.com/file/d/13eDlcg-GPBvutlIey9Ms5g4v9JhAIapN/view?usp=drivesdk) to watch the mobile tutorial. |
 
 ### Step 0.5: Create a Github Account
 Visit https://github.com/join and create a Github Account.
