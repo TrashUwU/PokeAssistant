@@ -153,7 +153,7 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 - Paste your Account ID in Value Section
 - Click `Add new Secret`
 
-![](https://cdn.discordapp.com/attachments/806194434117992499/831071426491449355/10.png)
+![](https://cdn.discordapp.com/attachments/717711311261401159/839115777889271858/19.png)
 (Mobile users will click green **play** button to run)
 (PC users will click Green **Run** Button.)
 
