@@ -174,13 +174,11 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Keep in Mind
-- If the bot gets updated, you will need to copy the index.js code and paste it in the index.js of your repl or the bot will stop working
-- The bot will identify 1 Pokémon every 40 seconds; if there are multiple spawns in 40 seconds, the bot will get rate limited
+- The bot will identify 1 Pokémon every 10 seconds; if there are multiple spawns in 10 seconds, the bot will get rate limited
 - Reduce the number of channels in `.env` if the bot gets rate limited too many times
 - The bot must have permissions to send embeds
-- Make sure `.env` is not empty and information provided there is correct
+- Make sure the `Keys` in `Secrets (Environment Variables)` are `UPPERCASE`.
 - Make sure the bot can DM the owner
-- The bot's accuracy is 96% ~~(Probably didn't calculate)~~
 - Do not show the bot token to others
 - Do not edit the code, because it will break the whole bot :/
 
