@@ -113,7 +113,7 @@ To generate the invite link, click on **Oauth2** in the app page, and scroll dow
 
 Copy the link and open it, select your server and click on **Authorize**. Cheers, it has been added to your server.
 #### Getting the token
-Go to the **Bot** page and copy the token. Save it somewhere, you will need that later.
+Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
 
 ![](https://cdn.discordapp.com/attachments/660518707134595095/830720955277508628/5.png)
 
