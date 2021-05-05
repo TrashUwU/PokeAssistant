@@ -193,13 +193,13 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **💪 Mass Ping**   | Made for Mass Shiny Hunt Tag. People who have `Sh POKEMONNAME` in server-nickname will get pinged if any `POKEMONNAME` spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PING` and Value will be `True`. Click `Save`. Wait for it to restart after 30 minutes  |
 
 ## Troubleshooting
-### Bot is not coming offline, no web tab
+#### Bot is not coming offline, no web tab
 Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`.
-### Bot is not coming online, web says `I am alive`
+#### Bot is not coming online, web says `I am alive`
 Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`.
-### Bot is stuck at `Predicting Pokémon...`
+#### Bot is stuck at `Predicting Pokémon...`
 Restart your REPL. Press stop button in the REPL (Run button becomes stop button if REPL is running). Now Press Run.
-### Bot works perfectly but goes offline if REPL tab from browser is closed
+#### Bot works perfectly but goes offline if REPL tab from browser is closed
 Read/Watch the Uptimerobot Part of Guide Carefully.
 
 ## Questions
