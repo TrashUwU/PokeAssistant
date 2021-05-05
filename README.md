@@ -211,7 +211,7 @@ Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must b
 ### Bot is not coming online, web says `I am alive`
 Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`.
 ### Bot is stuck at `Predicting Pokémon...`, **Everytime**
-Restart your REPL. Press stop button in the REPL (Run button becomes stop button if REPL is running). Now Press Run. You may not be able to fix this. Ask a moderator in the support server.
+Occurs everytime? I am finding a fix.
 ### Bot works perfectly but goes offline if REPL tab from browser is closed
 Read/Watch the Uptimerobot Part of Guide Carefully.
 
