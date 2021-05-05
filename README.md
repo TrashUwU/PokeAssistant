@@ -192,16 +192,6 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **🏹 Poké Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Wait for it to restart after 30 minutes  |
 | **💪 Mass Ping**   | Made for Mass Shiny Hunt Tag. People who have `Sh POKEMONNAME` in server-nickname will get pinged if any `POKEMONNAME` spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PING` and Value will be `True`. Click `Save`. Wait for it to restart after 30 minutes  |
 
-## Troubleshooting
-#### Bot is not coming offline, no web tab
-Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`.
-#### Bot is not coming online, web says `I am alive`
-Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`.
-#### Bot is stuck at `Predicting Pokémon...`
-Restart your REPL. Press stop button in the REPL (Run button becomes stop button if REPL is running). Now Press Run.
-#### Bot works perfectly but goes offline if REPL tab from browser is closed
-Read/Watch the Uptimerobot Part of Guide Carefully.
-
 ## Questions
 ### Why is the source code messed up?
 It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it and also don't want other coders to make an auto-catcher with the help of PokeAssistant.  But you can run it without problem!
@@ -214,5 +204,15 @@ The bot is not against Discord TOS. But do not show your bot token to others.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it's a push-over (not optional) you need to update the code or the bot will not work.
 For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
+
+## Troubleshooting
+### Bot is not coming offline, no web tab
+Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`.
+### Bot is not coming online, web says `I am alive`
+Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`.
+### Bot is stuck at `Predicting Pokémon...`
+Restart your REPL. Press stop button in the REPL (Run button becomes stop button if REPL is running). Now Press Run.
+### Bot works perfectly but goes offline if REPL tab from browser is closed
+Read/Watch the Uptimerobot Part of Guide Carefully.
 
 ## Made by TrashUwU#8019
