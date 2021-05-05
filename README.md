@@ -48,6 +48,7 @@ https://discord.gg/CtXvFj9yPq
 - Pings you, if your Shiny Hunt Pokémon spawns
 - Pings other members in your server, if their Shiny Hunt Pokémon spawns
 - Pings a specific role when rare Pokémons spawn
+- Returns prediction containing 3 pokemon images and names, if there are many results
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
 - Decreased Rate Limit **(Premium)**
