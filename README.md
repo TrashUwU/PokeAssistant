@@ -200,7 +200,7 @@ Make sure the Bot Token provided in Environment Variables is correct. Enivronmen
 ### Bot is stuck at `Predicting Pokémon...`
 Restart your REPL. Press stop button in the REPL (Run button becomes stop button if REPL is running). Now Press Run.
 ### Bot works perfectly but goes offline if REPL tab from browser is closed
-Read the Uptimerobot Part of Guide Carefully.
+Read/Watch the Uptimerobot Part of Guide Carefully.
 
 ## Questions
 ### Why is the source code messed up?
