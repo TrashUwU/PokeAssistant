@@ -1,4 +1,4 @@
-🚀 | **PokéAssistant Redesign**: No more annoying commercials, better timeout and boosted prediction!
+⚠️ | PokéAssistant now sends visual prediction if there are multiple results and Footer displays the name of Bot Owner
 :--- | :---
 
 [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fpremium)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
