@@ -11,9 +11,9 @@ _***This bot is `not` against Discord TOS***_.
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 
-PokéLegends | ❤️ Sponsor |
+TechieGaurav | ❤️ Sponsor |
 :---: | :---:
-![](https://media.discordapp.net/attachments/836953634297872415/836958868088422410/PL_pfp.png?width=260&height=260) | PokéLegends is one of the best Pokémon community servers! SFW, Non Toxic, No Sniping, Friendly Members, Friendly Staffs, Daily Giveaways, Daily Events, Pokémon Bots, Dank Memer (Steal/Heist Disabled) and much more Fun! What are you waiting for? Click [here](https://discord.gg/zMwD5X69zK) to join us!
+![](https://yt3.ggpht.com/ytc/AAUvwngGonLpA32yyhoRXCSn-JcWHTKlf2ey9D3tZ8XYww=s88-c-k-c0x00ffffff-no-rj) | The Discord Channel, subscribe for Discord Tips and Tricks, server decoration, bot setup tutorials and more to spice up your Discord Experience! Click [here](https://www.youtube.com/techiegaurav) to subscribe!
 
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
