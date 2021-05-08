@@ -177,7 +177,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 
 ### Keep in Mind
 - The bot will identify 1 Pokémon every 10 seconds; if there are multiple spawns in 10 seconds, the bot will get rate limited (5 seconds for premium)
-- Reduce the number of channels in `.env` if the bot gets rate limited too many times
+- Reduce the number of channels in `Secrets (Environment Variables)` if the bot gets rate limited too many times
 - The bot must have permissions to send embeds
 - Make sure the `Keys` in `Secrets (Environment Variables)` are `UPPERCASE`.
 - Make sure the bot can DM the owner
