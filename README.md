@@ -53,7 +53,7 @@ https://discord.gg/CtXvFj9yPq
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
 - Decreased Rate Limit **(Premium)**
-- Custom Embed Design **(Premium)**
+- Remove `tb!join` message and reaction **(Premium)**
 
 
 ## Bot Installation Guide
