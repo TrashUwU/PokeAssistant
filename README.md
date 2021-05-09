@@ -40,16 +40,18 @@ https://discord.gg/CtXvFj9yPq
 ## Features
 ### Read [this](https://github.com/TrashUwU/PokeAssistant#extra-features) if your bot is working and you want to install more features.
 - Harmless and Beginner-Friendly
+- Works on your own bot
 - Anti-Sniper
 - Fast and light
 - Can be hosted 24/7 on cloud or on PC
 - Auto-updates code
 - Uses AI to identify Pokémons
 - Returns 1-3 Pokémons as prediction
+- Pins good spawns
 - Pings you, if your Shiny Hunt Pokémon spawns
 - Pings other members in your server, if their Shiny Hunt Pokémon spawns
 - Pings a specific role when rare Pokémons spawn
-- Returns prediction containing 3 pokemon images and names, if there are many results
+- Returns prediction containing 3 Pokémon images and names, if there are many results
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
 - Decreased Rate Limit **(Premium)**
@@ -72,7 +74,9 @@ Visit https://github.com/join and create a Github Account.
 ### Step 0.7: Star the repository
 ![](https://images-ext-2.discordapp.net/external/FcVNBjEo13wE7x5Rg2wjz9U2xvqAk33hm9Tcw0DtDt8/https/res.cloudinary.com/practicaldev/image/fetch/s--MJisiJsL--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https%3A//thepracticaldev.s3.amazonaws.com/i/2nn6mhp57inp6rdxarzt.png?width=284&height=52)
 
-Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star button!
+Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star prediction
+
+**Sadly majority of the Pokétwo users don't know what's Github :cry:**
 
 ### Step 0.9: Enable Developer Mode
 In The Discord application go to Settings > Appearance > Turn on `Developer Mode`.
