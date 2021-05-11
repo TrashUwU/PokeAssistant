@@ -56,7 +56,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction **(Premium)**
 - Decreased Rate Limit **(Premium)**
 - Remove `tb!join` message and reaction **(Premium)**
-- Custom Embed Design **(Paid and can be traded with server boosts/month)**
+- Custom Embed Design **(Exotic)**
 
 
 ## Bot Installation Guide
