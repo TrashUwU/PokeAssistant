@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: Poor Bug
+about: Create a report to help PokéAssistant improve
+title: ''
 labels: ''
 assignees: ''
 
