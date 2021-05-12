@@ -67,7 +67,7 @@ So here the guide exists to teach you how.
 :---:
 | Mobile user? Thanks to [Techie Gaurav](https://youtube.com/techiegaurav) for making it! **Thumbail**: [KhanManan](https://github.com/Khanmanan) |
 | [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) |
-Click the image or [here](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) to watch the mobile tutorial. |
+Click the image or [here](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) to watch the mobile tutorial or read the instructions below if you are on PC. |
 
 ### Step 0.5: Create a Github Account
 Visit https://github.com/join and create a Github Account.
