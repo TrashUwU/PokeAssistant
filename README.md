@@ -225,4 +225,7 @@ Occurs everytime? I am finding a fix.
 ### Bot works perfectly but goes offline if REPL tab from browser is closed
 Read/Watch the Uptimerobot Part of Guide Carefully.
 
+## Partnership
+Please contact moderators in the support server for partnering up.
+
 ## Made by TrashUwU#8019
