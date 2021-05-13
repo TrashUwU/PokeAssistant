@@ -226,6 +226,6 @@ Occurs everytime? I am finding a fix.
 Read/Watch the Uptimerobot Part of Guide Carefully.
 
 ## Partnership
-Please contact moderators in the support server for partnering up. Click [here](https://discord.com/channels/709340618538614795/764000847357018142/785128970273554442) if you are joined.
+Please contact moderators in the support server for partnering up. Click [here](https://discord.com/channels/709340618538614795/764000847357018142/785128970273554442) if you are joined. Your ad will be sent to DM if a user types `tb!join`.
 
 ## Made by TrashUwU#8019
