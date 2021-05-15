@@ -188,6 +188,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - Make sure the bot can DM the owner
 - Do not show the bot token to others
 - Do not edit the code, because it will break the whole bot :/
+- You can only have 2 PokéAssistants.
 
 ## Extra Features
 > These features are disabled by default. Follow the setup-instructions to enable them.
