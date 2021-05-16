@@ -13,7 +13,7 @@ _***This bot is `not` against Discord TOS***_.
 
 TechieGaurav | ❤️ Sponsor |
 :---: | :---:
-[![Techie Gaurav](https://yt3.ggpht.com/ytc/AAUvwngGonLpA32yyhoRXCSn-JcWHTKlf2ey9D3tZ8XYww=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/techiegaurav) | The Discord Channel, subscribe for Discord Tips and Tricks, server decoration, bot setup tutorials and more to spice up your Discord Experience! Click [here](https://www.youtube.com/techiegaurav) to subscribe!
+[![Sponsor-Image](https://yt3.ggpht.com/ytc/AAUvwngGonLpA32yyhoRXCSn-JcWHTKlf2ey9D3tZ8XYww=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/techiegaurav) | The Discord Channel, subscribe for Discord Tips and Tricks, server decoration, bot setup tutorials and more to spice up your Discord Experience! Click [here](https://www.youtube.com/techiegaurav) to subscribe!
 
 ## Information
 PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
