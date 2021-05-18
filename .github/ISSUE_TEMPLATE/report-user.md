@@ -2,7 +2,7 @@
 name: Report User
 about: Report Auto-Catchers made with PokéAssistant
 title: ''
-labels: ''
+labels: report
 assignees: ''
 
 ---

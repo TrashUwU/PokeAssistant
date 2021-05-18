@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea or feature for PokéAssistant
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
