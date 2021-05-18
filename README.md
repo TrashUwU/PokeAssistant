@@ -20,7 +20,7 @@ PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Po
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
 ## Get Premium
-**Premium is being reworked...**
+**Boost the support server...**
 
 ### Developer
 TrashUwU#8019
