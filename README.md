@@ -1,11 +1,11 @@
-⚠️ | PokéAssistant **v2.88.3** has been released. Contains fixed `Anti-Snipe`, `Auto-Pin` and `Non-Explicit` mode! [Learn More](https://github.com/TrashUwU/PokeAssistant#extra-features). Your code will be updated automatically. **We do not make auto-catchers, contact [Banerus](https://github.com/Team-BANERUS/poketwo-Autocatcher/) or [Hyperclaw](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Autocatcher) for buying auto-catchers.**
+⚠️ | PokéAssistant **v2.88.3** has been released. Contains fixed `Anti-Snipe`, `Auto-Pin` and `Non-Explicit` mode! [Learn More](https://github.com/TrashUwU/PokeAssistant#extra-features). Your code will be updated automatically.
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-2.88.3-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-8-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
-A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-Sniper!
+A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-Sniper! **We do not make auto-catchers, contact [Banerus](https://github.com/Team-BANERUS/poketwo-Autocatcher/) or [Hyperclaw](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Autocatcher) for buying auto-catchers.**
 
 _***This bot is `not` against Discord TOS***_.
 
