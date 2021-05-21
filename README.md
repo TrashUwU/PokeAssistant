@@ -5,7 +5,7 @@
 
 # PokéAssistant
 
-A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-Sniper! **We do not make auto-catchers, contact [Banerus](https://github.com/Team-BANERUS/poketwo-Autocatcher/) or [Hyperclaw](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Autocatcher) for buying auto-catchers.**
+A Pokétwo Hack/Assistant Bot that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-Sniper!
 
 _***This bot is `not` against Discord TOS***_.
 
