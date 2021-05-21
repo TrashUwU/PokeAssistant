@@ -214,7 +214,7 @@ Discord does not verify bots that work against other bots. Server limit for unve
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
 The bot is not against Discord TOS. But do not show your bot token to others.
-### How do I restart the code?
+### How do I restart the bot?
 Type `prefix!reboot` to reboot your bot! Ping your bot to see the prefix.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it's a push-over (not optional) you need to update the code or the bot will not work.
