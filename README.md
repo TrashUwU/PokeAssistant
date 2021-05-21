@@ -203,6 +203,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **🏹 Poké Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours.  |
 | **🚫 Anti Snipe**   | The bot will warn snipers if they are caught. (Snipers catch Pokémons but do not help Pokémons spawn by sending messages) `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `SNIPE` and Value will be `True`. Click `Save`. To disable, delete the secret called `SNIPE` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **📌 Auto Pin**   | The bot will pin Ultra Beast, Alolan, Legendary or Mythical spawns. `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PIN` and Value will be `True`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🎈 Custom Prefix**   | The prefix of the bot will be changed. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PREFIX` and Value will be two letters. Example: `pk`, commands will look like `pk!join`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 
 ## Questions
 ### Why is the source code messed up?
@@ -213,6 +214,8 @@ Discord does not verify bots that work against other bots. Server limit for unve
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
 The bot is not against Discord TOS. But do not show your bot token to others.
+### How do I restart the code?
+Type `prefix!reboot` to reboot your bot! Ping your bot to see the prefix.
 ### How do I update the code?
 Updating is optional. If the bot asks you to update, that means it's a push-over (not optional) you need to update the code or the bot will not work.
 For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
