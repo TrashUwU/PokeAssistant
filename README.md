@@ -1,4 +1,4 @@
-⚠️ | PokéAssistant **v2.88.4** has been released. Contains fixed **Reboot Command & Custom Prefix**! [All Features](https://github.com/TrashUwU/PokeAssistant#extra-features). Your code will be updated automatically.
+⚠️ | PokéAssistant **v2.88.4** has been released. Contains fixed `Reboot Command & Custom Prefix`! [All Features](https://github.com/TrashUwU/PokeAssistant#extra-features). Your code will be updated automatically.
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-2.88.4-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-8-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
