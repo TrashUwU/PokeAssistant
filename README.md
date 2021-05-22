@@ -221,16 +221,16 @@ Updating is optional. If the bot asks you to update, that means it's a push-over
 For updating, copy this [code](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js). Go to https://replit.com/repls and click your PokéAssistant REPL. After the editor has loaded, select all codes and press backspace to clear everything from the file. Now paste the copied code. Now delete `json.sqlite`(**Mobile**: Click `files` button and click `•••` beside `json.sqlite`), now press Run/Play Button. Make sure Run/Play button now looks like a square. (Not a triangle)
 
 ## Troubleshooting
-### Bot is not coming offline, no web tab
-Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`.
-### Bot is not coming online, web says `I am alive`
-Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`.
-### Bot is stuck at `Predicting Pokémon...`, **Everytime**
-Occurs everytime? I am finding a fix.
+### Bot is not coming offline, (no web tab or web tab exists but says `Hmmmmm... We cannot reach...`)
+Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`. If that doesn't work, clear your index.js file and paste [this](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) code. Press **Run** again.
+### Bot is not coming online, (web says `I am alive`)
+Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`. Read [this](https://github.com/TrashUwU/PokeAssistant#second-secret) again.
+### Bot is stuck at `...Please Wait...`, **Everytime**
+Reboot your bot. Ping your bot in Discord to know the command.
 ### Bot works perfectly but goes offline if REPL tab from browser is closed
-Read/Watch the Uptimerobot Part of Guide Carefully.
+Read/Watch the [this](https://github.com/TrashUwU/PokeAssistant#step-3-keeping-the-bot-online-optional) Carefully.
+## Different Issue?
+[Join](https://discord.gg/bke542yQgG) my server and wait 30 minutes. And then create a support ticket [here](https://discord.com/channels/709340618538614795/764000847357018142/785128970273554442).
 
-## Partnership
-Please contact moderators in the support server for partnering up. Click [here](https://discord.com/channels/709340618538614795/764000847357018142/785128970273554442) if you are joined. Your ad will be sent to DM if a user types `tb!join`.
 
-## Made by TrashUwU#8019
+# Made by TrashUwU#8019
