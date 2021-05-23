@@ -192,7 +192,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - You can only have 2 PokéAssistants.
 
 ## Extra Features
-> These features are disabled or enabled by default. Follow the setup-instructions to enable them.
+> These features are disabled or enabled by default. Follow the setup-instructions to toggle them.
 
 | **Name**      | **Description** | **Setup**   |
 | :---:        |    :---:   | :---: |
