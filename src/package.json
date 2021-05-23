@@ -1,7 +1,7 @@
 {
   "name": "PokemonAssistant",
   "version": "2.88.5",
-  "description": "Hi",
+  "description": "Hello",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.21.1",
