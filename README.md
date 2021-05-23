@@ -209,7 +209,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 ### Why is the source code messed up?
 It's encrypted/obfuscated. I don't want Pokétwo mods to read and patch against it and also don't want other coders to make an auto-catcher with the help of PokeAssistant.  But you can run it without problem!
 ### Why can't I invite the bot instead of hosting it?
-Discord does not verify bots that work against other bots. Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
+Discord does not verify these kind of bots, verified bots must be unique. Server limit for unverified bots is 100 and bots in 1K+ servers need too much ram. That means you can't invite it to your server, if it's in 100 servers already 😵. With the help of this guide, you can make your own bot and customize it without coding!
 ### Want to help?
 Star the repository, refer your friends to this Github repository! Join the support server to request faster results, no ads and decreased rate limit! You must create a support ticket to contact the moderators.
 ### Is it harmful?
