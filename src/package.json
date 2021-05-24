@@ -1,6 +1,6 @@
 {
   "name": "PokemonAssistant",
-  "version": "2.88.5",
+  "version": "2.88.6",
   "description": "Hello",
   "main": "index.js",
   "dependencies": {
@@ -12,6 +12,7 @@
     "request": "2.88.2",
     "jimp": "0.16.1"
   },
+  "features": "Anti SH Steal & Help Command",
   "devDependencies": {},
   "keywords": [],
   "author": "",
