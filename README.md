@@ -54,7 +54,7 @@ https://discord.gg/CtXvFj9yPq
 - Returns prediction containing 3 Pokémon images and names, if there are many results
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
-- 99.99% Accuracy **(Premium)**
+- 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
 - Remove `tb!join` message and reaction **(Premium)**
 - Custom Embed Design **(Exotic)**
