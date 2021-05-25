@@ -1,9 +1,10 @@
 {
   "name": "PokemonAssistant",
-  "version": "2.88.5",
+  "version": "2.88.6",
   "description": "Hello",
   "main": "index.js",
   "dependencies": {
+    "@replit/database": "^2.0.1",
     "axios": "^0.21.1",
     "discord.js": "^12.5.3",
     "quick.db": "^7.1.3",
@@ -12,7 +13,7 @@
     "request": "2.88.2",
     "jimp": "0.16.1"
   },
-  "features": "Anti SH Steal & Help Command, https://github.com/TrashUwU/PokeAssistant/releases/tag/v2.88.5",
+  "features": "Fix SH steal warn and auto restart. https://github.com/TrashUwU/PokeAssistant/releases/tag/v2.88.6",
   "devDependencies": {},
   "keywords": [],
   "author": "",
