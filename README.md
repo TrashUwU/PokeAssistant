@@ -1,7 +1,7 @@
-⚠️ | PokéAssistant **v2.88.6** has been released. Contains `Fixed SH Steal warn regex and Database`! [Learn More](https://github.com/TrashUwU/PokeAssistant#extra-features). Your code will be updated automatically.
+🎊 | PokéAssistant **v3.0.0** has been released. Includes `Anti SH Steal (Punishment) and Tag command like Sierra!` [Learn More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.0.0). Your code will be updated automatically.
 :--- | :---
 
-[![Version](https://img.shields.io/badge/Version-2.88.6-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-8-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
+[![Version](https://img.shields.io/badge/Version-3.0.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-8-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
@@ -204,6 +204,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **🚫 Anti Snipe**   | The bot will warn snipers if they are caught. (Snipers catch Pokémons but do not help Pokémons spawn by sending messages) `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `SNIPE` and Value will be `True`. Click `Save`. To disable, delete the secret called `SNIPE` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **📌 Auto Pin**   | The bot will pin Ultra Beast, Alolan, Legendary or Mythical spawns. `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PIN` and Value will be `True`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🎈 Custom Prefix**   | The prefix of the bot will be changed. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PREFIX` and Value will be two letters. Example: `pk`, commands will look like `pk!join`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **🔪 Anti SH Steal**   | Mutes the user for 10 minutes if they are caught stealing SH. | Mention your bot for help, and use the `<prefix>punish` command. |
 
 ## Questions
 ### Why is the source code messed up?
