@@ -1,6 +1,6 @@
 {
   "name": "PokemonAssistant",
-  "version": "2.88.6",
+  "version": "3.0.0",
   "description": "Hello",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "request": "2.88.2",
     "jimp": "0.16.1"
   },
-  "features": "Fix SH steal warn and auto restart. https://github.com/TrashUwU/PokeAssistant/releases/tag/v2.88.6",
+  "features": "Tag command like Sierra and SH Steal Punishment.\nhttps://github.com/TrashUwU/PokeAssistant/releases/tag/v3.0.0",
   "devDependencies": {},
   "keywords": [],
   "author": "",
