@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help PokéAssistant improve
+about: Bot offline or not working
 title: ''
 labels: bug
 assignees: ''
