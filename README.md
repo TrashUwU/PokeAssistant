@@ -56,7 +56,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction **(Premium)**
 - 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
-- Remove `tb!join` message and reaction **(Premium)**
+- Remove `prefix!join` message and reaction **(Premium)**
 - Custom Embed Design **(Exotic)**
 
 
