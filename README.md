@@ -1,4 +1,4 @@
-⚠️ | PokéAssistant `v3.0.0` is out! Includes `Anti SH Steal (Punishment) and Tag command like Sierra!` [Learn More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.0.0). Your bot will be updated automatically or reboot your bot if it didn't.
+⚠️ | PokéAssistant `v3.0.0` is out! Includes `Anti SH Steal (Punishment) and Tag command (For SH) like Sierra!` [Learn More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.0.0). Your bot will be updated automatically or reboot your bot if it didn't.
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-3.0.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-8-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
