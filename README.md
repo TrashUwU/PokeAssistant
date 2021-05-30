@@ -7,7 +7,7 @@
 
 A Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-SH-Steal and Anti-Snipe!
 
-_***This bot is `not` against Discord TOS***_.
+_***This bot is `not` against Discord TOS***_.  
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 
