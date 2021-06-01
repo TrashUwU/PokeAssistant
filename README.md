@@ -1,4 +1,4 @@
-⚠️ | PokéAssistant `v3.5.0` will be released (Gen 8 and Galarians will be included) soon! ETA: 2 Days `(Sorry for the delay)`
+⚠️ | PokéAssistant `v3.5.0b` (Beta) contains Gen 8 and Galarians from Sword and Shield. Adding more!
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-3.0.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-2-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
