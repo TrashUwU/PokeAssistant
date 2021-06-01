@@ -1,6 +1,6 @@
 {
   "name": "PokemonAssistant",
-  "version": "3.0.0",
+  "version": "3.5.0b",
   "description": "Hello",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "request": "2.88.2",
     "jimp": "0.16.1"
   },
-  "features": "Tag command like Sierra and SH Steal Punishment. [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.0.0)",
+  "features": "Generation 8 and Galarians [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.5.0b)",
   "devDependencies": {},
   "keywords": [],
   "author": "",
