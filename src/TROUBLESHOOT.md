@@ -1,5 +1,5 @@
 ## Troubleshooting
-### Bot is not coming offline, (no web tab or web tab exists but says `Hmmmmm... We cannot reach...`)
+### Bot is not coming offline, (No web tab) or (Web tab exists but says `Hmmmmm... We cannot reach...`)
 Make sure Secrets in Environment Variables are correct! The Key `CHANNEL` must be Uppercase. Ex. `CHANNEL`. If that doesn't work, clear your index.js file and paste [this](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/index.js) code. Also, clear your package.json file and paste [this](https://raw.githubusercontent.com/TrashUwU/PokeAssistant/main/src/package.json) code. Press **Run** again.
 ### Bot is not coming online, (web says `I am alive`)
 Make sure the Bot Token provided in Environment Variables is correct. Enivronment Variables Key name must be Uppercase. Ex. `TOKEN`. Read [this](https://github.com/TrashUwU/PokeAssistant#second-secret) again.
