@@ -1,6 +1,6 @@
 {
   "name": "PokemonAssistant",
-  "version": "3.5.0b",
+  "version": "3.5.0",
   "description": "Hello",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "request": "2.88.2",
     "jimp": "0.16.1"
   },
-  "features": "Generation 8 and Galarians [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.5.0b)",
+  "features": "v3.5.0 Stable Release [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.5.0)",
   "devDependencies": {},
   "keywords": [],
   "author": "",
