@@ -70,20 +70,20 @@ So here the guide exists to teach you how.
 | [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) |
 Click the image or [here](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) to watch the mobile tutorial or read the instructions below if you are on PC. |
 
-### Step 0.5: Create a Github Account
+### Step 1: Create a Github Account
 Visit https://github.com/join and create a Github Account.
 
-### Step 0.7: Star the repository
+### Step 1.5: Star the repository
 ![](https://images-ext-2.discordapp.net/external/FcVNBjEo13wE7x5Rg2wjz9U2xvqAk33hm9Tcw0DtDt8/https/res.cloudinary.com/practicaldev/image/fetch/s--MJisiJsL--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https%3A//thepracticaldev.s3.amazonaws.com/i/2nn6mhp57inp6rdxarzt.png?width=284&height=52)
 
 Visit https://github.com/TrashUwU/PokeAssistant/stargazers and click the star prediction
 
 **Sadly majority of the Pokétwo users don't know what's Github :cry:**
 
-### Step 0.9: Enable Developer Mode
+### Step 1.7: Enable Developer Mode
 In The Discord application go to Settings > Appearance > Turn on `Developer Mode`.
 
-### Step 1: Creating a bot account
+### Step 1.9: Creating a bot account
 Don't worry, it's super simple.
 #### Creating the application
 To create the application, head to https://discord.com/developers/applications/. Log in, and you'll reach a page that may look like this:
