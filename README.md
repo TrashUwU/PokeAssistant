@@ -131,7 +131,7 @@ The bot will be hosted on Replit, so you need to create a Replit account first: 
 #### Getting the code
 The code has already been setup, you only need to go to https://replit.com/@ButterTaurus/PokeAssistant and click `fork`. Wait 10-60 seconds after forking.
 
-![](https://cdn.discordapp.com/attachments/678537293820330005/830756922487603220/6.png)
+![](https://cdn.discordapp.com/attachments/567692673440546876/850608211765886996/5.png)
 
 #### Configuration
 
