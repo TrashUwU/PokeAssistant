@@ -1,7 +1,7 @@
 ⚠️ | PokéAssistant `v3.5.1` contains Generation 8, Galarians, Event Pokémons and Gigantamax! The bot will auto-update.
 :--- | :---
 
-[![Version](https://img.shields.io/badge/Version-3.5.1-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-2-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
+[![Version](https://img.shields.io/badge/Version-3.5.1-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-1-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
