@@ -1,6 +1,6 @@
 {
 	"name": "PokemonAssistant",
-	"version": "3.6.0",
+	"version": "3.8.0",
 	"description": "Hello",
 	"main": "index.js",
 	"dependencies": {
@@ -14,7 +14,7 @@
 		"request-promise": "^4.2.6",
 		"shelljs": "^0.8.4"
 	},
-	"features": "Hint Identifier, [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.6.0)",
+	"features": "Quest Ping (Premium), [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.8.0), Boost the [support server](https://discord.gg/7RQy8GKMsr) for getting premium.",
 	"devDependencies": {},
 	"keywords": [],
 	"author": "",
