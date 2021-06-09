@@ -1,7 +1,7 @@
-⚠️ | PokéAssistant `v3.6.0` contains Hint-Identifier! The bot will auto-update.
+⚠️ | PokéAssistant `v3.8.0` contains `Quest-Ping` **(Premium)**! The bot will auto-update.
 :--- | :---
 
-[![Version](https://img.shields.io/badge/Version-3.6.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-3-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
+[![Version](https://img.shields.io/badge/Version-3.8.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-3-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
@@ -56,6 +56,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction **(Premium)**
 - 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
+- Pings for Quest (If one spawns from given Region) **(Premium)**
 - Remove `prefix!join` message and reaction **(Premium)**
 - Custom Embed Design **(Exotic)**
 
@@ -192,20 +193,21 @@ Finally click **Create Monitor** and you're done! Done with everything!
 - You can only have 2 PokéAssistants.
 
 ## Extra Features
-> These features are disabled or enabled by default. Follow the setup-instructions to toggle them.
+> These features are disabled/enabled by default. Follow the setup-instructions to toggle them.
 
 | **Name**      | **Description** | **Setup**   |
 | :---:        |    :---:   | :---: |
 | **🔍 Quick Find**      | The bot will identify the Pokémon if it finds a spawn in any Channel or Server.       | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` open `CHANNEL` secret. Now clear the channel ID(s) in value section and paste `000`. Click `Save`. Wait for it to restart after 30 minutes.  |
 | **🏓 Role Ping**   | The bot will ping a specific role if an Ultra Beast, Alolan, Galarian, Legendary or Mythical Pokémon Spawns. `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `ROLE` and Value will be the Role name or ID which will be pinged if a rare pokémon spawns.  Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **💪 Mass Ping**   | Made for Mass Shiny Hunt Tag. People who have `Sh POKEMONNAME` in server-nickname will get pinged if any `POKEMONNAME` spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PING` and Value will be `True`. To restrict SH Ping to SH only channels, create a Secret with Key `SCH` and Value will be the Channel ID(s) of SH channels (Separate with `,`). To disable, delete the secret called `PING` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
-| **❌ Non Explicit**   | The bot will not ping for `Mass Ping` and `Role Ping` feature if it's confidence is low. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `EXPLICIT` and Value will be `False`. To disable, delete the secret called `EXPLICIT` or set the value to `True`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
+| **❌ Non Explicit**   | The bot will not ping for `Mass Ping`, `Role Ping` and `Quest Ping` feature if it's confidence is low. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `EXPLICIT` and Value will be `False`. To disable, delete the secret called `EXPLICIT` or set the value to `True`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🏹 Poké Hunt**   | The bot will ping the owner if a given Pokémon Spawns.  `Quick Find` feature should be enabled for better performance.   | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HUNT` and Value will be a Pokémon name. Owner will get pinged if that Pokémon spawns, useful for Shiny Hunt. Click `Save`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours.  |
 | **🚫 Anti Snipe**   | The bot will warn snipers if they are caught. (Snipers catch Pokémons but do not help Pokémons spawn by sending messages) `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `SNIPE` and Value will be `True`. Click `Save`. To disable, delete the secret called `SNIPE` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **📌 Auto Pin**   | The bot will pin Ultra Beast, Alolan, Galarian, Legendary or Mythical spawns. `Quick Find` feature should be enabled for better performance. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PIN` and Value will be `True`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🎈 Custom Prefix**   | The prefix of the bot will be changed. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `PREFIX` and Value will be two letters. Example: `pk`, commands will look like `pk!join`. Click `Save`. To disable, delete the secret called `PIN` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🧠 Hint Identifier**   | The bot will retrieve the Pokémon name from Hint. Type hint command in Pokétwo and the bot will respond. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HINT` and Value will be `True`. Click `Save`. To disable, delete the secret called `HINT` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🔪 Anti SH Steal**   | Mutes the user if they are caught stealing SH. And unmutes after 10 minutes + Restores all roles. | Mention your bot for help, and use the `<prefix>punish` command. |
+| **🧩 Quest Ping**   | **Premium Feature**, the name describes everything. | Mention your bot for help, and use the `<prefix>quest` command. |
 
 ## Questions
 ### Why is the source code messed up?
