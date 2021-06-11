@@ -1,11 +1,11 @@
-⚠️ | PokéAssistant `v3.8.0` contains `Quest-Ping` **(Premium)**! The bot will auto-update.
+⚠️ | PokéAssistant `v3.8.5` contains `Who's-That-Pokémon` **(Premium)** feature! The bot will auto-update.
 :--- | :---
 
-[![Version](https://img.shields.io/badge/Version-3.8.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-3-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
+[![Version](https://img.shields.io/badge/Version-3.8.5-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-3-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
-A Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-SH-Steal and Anti-Snipe!
+A Free Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Anti-SH-Steal and Anti-Snipe!
 
 _***This bot is `not` against Discord TOS***_.
 
@@ -56,6 +56,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction **(Premium)**
 - 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
+- Automated Who's-That-Pokémon feature **(Premium)**
 - Pings for Quest (If one spawns from given Region) **(Premium)**
 - Remove `prefix!join` message and reaction **(Premium)**
 - Custom Embed Design **(Exotic)**
@@ -208,6 +209,7 @@ Finally click **Create Monitor** and you're done! Done with everything!
 | **🧠 Hint Identifier**   | The bot will retrieve the Pokémon name from Hint. Type hint command in Pokétwo and the bot will respond. | From https://replit.com/repls, open your bot Repl, go to `Secrets (Environment Variables)` create a Secret with Key `HINT` and Value will be `True`. Click `Save`. To disable, delete the secret called `HINT` or set the value to `False`. Stop the code and run agian or wait for it to automatically restart after 1-12 hours. |
 | **🔪 Anti SH Steal**   | Mutes the user if they are caught stealing SH. And unmutes after 10 minutes + Restores all roles. | Mention your bot for help, and use the `<prefix>punish` command. |
 | **🧩 Quest Ping**   | **Premium Feature**, the name describes everything. | Mention your bot for help, and use the `<prefix>quest` command. |
+| **❓ Who's-That-Pokémon** | **Premium Feature**, send a spawn image in a given channel, the bot will say the name. | Mention your bot for help, and use the `<prefix>who` command. |
 
 ## Questions
 ### Why is the source code messed up?
