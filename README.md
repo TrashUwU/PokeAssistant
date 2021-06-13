@@ -7,7 +7,7 @@
 
 [Free] Amazing Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest Ping! Every features are automated.
 
-_***This bot is `not` against Discord TOS***_.
+__**This bot is `not` against Discord TOS**__.
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
 
