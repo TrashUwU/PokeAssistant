@@ -1,11 +1,11 @@
-⚠️ | PokéAssistant `v3.8.5` contains `Who's-That-Pokémon` **(Premium)** feature, [More Info](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.8.5). The bot will auto-update.
+⚠️ | PokéAssistant `v3.8.5` contains `Who's-That-Pokémon` **(Premium)** feature, [More Info](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.8.5). The bot will auto-update!
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-3.8.5-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/commits/main) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/exotic%20users-3-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
-[Free] Amazing Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest Ping! Every features are automated.
+**[Free]** Amazing Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest Ping! Every features are automated.
 
 __**This bot is `not` against Discord TOS**__.
 
@@ -56,6 +56,7 @@ https://discord.gg/CtXvFj9yPq
 - Faster Prediction **(Premium)**
 - 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
+- Rare Pokémon Lock **(Premium)**
 - Automated Who's-That-Pokémon feature **(Premium)**
 - Pings for Quest (If one spawns from given Region) **(Premium)**
 - Remove `prefix!join` message and reaction **(Premium)**
