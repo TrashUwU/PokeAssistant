@@ -108,8 +108,8 @@ There's a few things you can change here.
 - Public bot: Toggles the ability for other users to add your bot to their server.
 - Require Oauth2 Code Grant: Don't check this. Just, don't.
 
-After doing these, scroll down,
-
+After doing these, scroll down.
+#### Enabling Intents
 ![](https://cdn.discordapp.com/attachments/696949237786738712/836614489712754749/11.jpg)
 
 **Enable those things shown in Pic-**
