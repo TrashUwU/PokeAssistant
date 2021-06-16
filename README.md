@@ -9,7 +9,7 @@
 
 __**This bot is `not` against Discord TOS**__.
 
-[Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
+> **[Skip to Installation/Setup Guide](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)**
 
 TechieGaurav | ❤️ Sponsor |
 :---: | :---:
