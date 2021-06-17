@@ -46,6 +46,7 @@ https://discord.gg/CtXvFj9yPq
 - Can be hosted 24/7 on cloud or on PC
 - Auto-updates code
 - Uses AI to identify Pokémons
+- 85% Accuracy because of small dataset, how much do you expect from free REPLIT?
 - Returns 1-3 Pokémons as prediction
 - Pins good spawns
 - DMs you, if your Shiny Hunt Pokémon spawns
@@ -54,7 +55,6 @@ https://discord.gg/CtXvFj9yPq
 - Returns prediction containing 3 Pokémon images and names, if there are many results
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
-- 97% Accuracy, not sure but atleast better than free **(Premium)**
 - Decreased Rate Limit **(Premium)**
 - Rare Pokémon Lock **(Premium)**
 - Automated Who's-That-Pokémon feature **(Premium)**
