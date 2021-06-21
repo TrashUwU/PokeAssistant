@@ -67,11 +67,10 @@ https://discord.gg/CtXvFj9yPq
 You surely want a private bot for your server, now that you have got the source code, you wonder: how do I keep the bot up 24/7?
 So here the guide exists to teach you how.
 
-| Video Tutorial |
+| Video Tutorials |
 :---:
-| Mobile user? Thanks to [Techie Gaurav](https://youtube.com/techiegaurav) for making it! **Thumbail**: [KhanManan](https://github.com/Khanmanan) |
-| [![](https://cdn.discordapp.com/attachments/717711311261401159/833237019698266167/Thumbail.png)](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) |
-Click the image or [here](https://www.youtube.com/watch?v=edGweUv-7WA&ab_channel=TechieGaurav) to watch the mobile tutorial or read the instructions below if you are on PC. |
+| **[PC Tutorial](https://www.youtube.com/watch?v=aKVd9Y2j_2c)** *- Pritu Dev* |
+| **[Mobile Tutorial](https://www.youtube.com/watch?v=edGweUv-7WA)** *- Techie Gaurav* |
 
 ### Step 1: Create a Github Account
 Visit https://github.com/join and create a Github Account.
