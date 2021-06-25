@@ -1,4 +1,4 @@
-⚠️ | Added better troubleshooters in PokéAssistant `v3.8.9`. [More Info](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.8.9). The bot will auto-update!
+📣 | Bots can be `down`! Please be patient.
 :--- | :---
 
 [![Version](https://img.shields.io/badge/Version-3.8.9-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/releases) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-22-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
