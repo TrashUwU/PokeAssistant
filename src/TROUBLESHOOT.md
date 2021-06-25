@@ -1,4 +1,7 @@
 ## Troubleshooting
+
+> Open your bot code in Replit.com and click `Run/Play` button, to see the error in console.
+
 ### Prints `Your repl is already running` after pressing run/stop (Can't restart code)
 Reload your page, and try again.
 ### Bot is not coming online, (No web tab) or (Web tab exists but says `Hmmmmm... We cannot reach...`)
