@@ -66,7 +66,7 @@ So here the guide exists to teach you how.
 
 | Video Tutorials |
 :---:
-| **[PC Tutorial](https://www.youtube.com/watch?v=aKVd9Y2j_2c)** *- Pritu Dev* |
+| **[PC Tutorial](https://www.youtube.com/watch?v=PvLQrHqOGqs&t=18s)** *- Pritu Dev* |
 | **[Mobile Tutorial](https://www.youtube.com/watch?v=edGweUv-7WA)** *- Techie Gaurav* |
 
 ### Step 1: Create a Github Account
