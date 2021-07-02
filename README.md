@@ -53,7 +53,6 @@ https://discord.gg/CtXvFj9yPq
 - No ads **(Premium)**
 - Faster Prediction **(Premium)**
 - Decreased Rate Limit **(Premium)**
-- Rare Pokémon Lock **(Premium)**
 - Automated Who's-That-Pokémon feature **(Premium)**
 - Pings for Quest (If one spawns from given Region) **(Premium)**
 - Remove `prefix!join` message and reaction **(Premium)**
