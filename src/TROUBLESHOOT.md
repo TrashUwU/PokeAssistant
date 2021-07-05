@@ -1,4 +1,8 @@
+ Troubleshooting Video by *Pritu Dev* | [Click Here](https://www.youtube.com/watch?v=NRo3vMWrpz4)
+:-- | ---:
+
 ## Troubleshooting
+
 
 > Open your bot code in Replit.com and click `Run/Play` button, to see the error in console.
 
