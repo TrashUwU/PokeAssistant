@@ -18,6 +18,8 @@ Make sure the Bot Token provided in Environment Variables is correct. Read [this
 Make sure you provided Channel ID(s) in Environment Variables. Read [this](https://github.com/TrashUwU/PokeAssistant#second-secret) again.
 ### Slow responses from bot
 Reboot your bot. Ping your bot in Discord to know the command.
+### Error of `SH Ping: None` everytime.
+Keep in mind, the bot doesn't ping offline members. If a member with tag is online and still not getting pinged, make sure you have enable [intents](https://github.com/TrashUwU/PokeAssistant#enabling-intents). After enabling, wait 1 hour for it to work.
 ### Bot works perfectly but goes offline if REPL tab from browser is closed
 Read/Watch [this](https://github.com/TrashUwU/PokeAssistant#step-3-keeping-the-bot-online-optional) Carefully.
 ## Different Issue?
