@@ -27,7 +27,7 @@ TrashUwU#8019
 ![](https://cdn.discordapp.com/attachments/694227466964697089/836248568591286382/Slash.gif)
 
 [Skip to Installation](https://github.com/TrashUwU/PokeAssistant#bot-installation-guide)
-### Issues?
+### Issues?!
 Facing issues with the bot? Please create a Github Issue.
 ### Questions?
 Code-Safety questions? Scroll down to [questions](https://github.com/TrashUwU/PokeAssistant/#questions-1) section or join support server.
