@@ -4,7 +4,7 @@
 
 # PokéAssistant
 
-**[Free]** Amazing Pokétwo Assistant that identifies Pokémons from Pokétwo spawns, pings a role if a legendary spawns and pins them, pings you if your Shiny Hunt Pokémon spawns and other features like Quest Ping! Every features are automated.
+Amazing Pokétwo Assistant Bot that pings you if legendary or mythical spawns, and other features Eg. SH Ping, Quest Ping, Anti-Snipe and more!
 
 __**This bot is `not` against Discord TOS**__.
 
@@ -14,8 +14,6 @@ Cleverbot | ❤️ Sponsor |
 :---: | :---:
 [![Sponsor-Image](https://cdn.discordapp.com/avatars/712635007981846601/98cd118e27180b9304bd7c9e1968a4de.png?size=1024)](https://top.gg/bot/712635007981846601) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://top.gg/bot/712635007981846601) to invite it from top.gg.
 
-## Information
-PokéAssistant is a bot aimed to help Pokétwo players. It will tell you what Pokémon it is whenever Pokétwo spawns one along with many other features. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokémon like this.
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
 ## Get Premium
