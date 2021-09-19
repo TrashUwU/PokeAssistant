@@ -4,7 +4,7 @@
 
 # PokéAssistant
 
-Amazing Pokétwo Assistant Bot that pings you if legendary or mythical spawns, and other features Eg. SH Ping, Quest Ping, Anti-Snipe and more! **It's a forked and improved version of [Chamburr's](https://github.com/chamburr) unmaintained/dead PokéAssistant made for Pokécord.**
+Amazing Pokétwo Assistant Bot that pings you if legendary or mythical spawns, and other features Eg. SH Ping, Quest Ping, Anti-Snipe and more! **It's a forked and improved version of [Chamburr](https://github.com/chamburr)'s unmaintained/dead PokéAssistant made for Pokécord.**
 
 __**This bot is `not` against Discord TOS**__.
 
