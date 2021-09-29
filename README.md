@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/714908291641376810/868701576183820298/PokeAssistant_3.png?width=700&height=100)
 
-[![Version](https://img.shields.io/badge/Version-3.9.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/releases) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-12-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
+[![Version](https://img.shields.io/badge/Version-3.9.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/releases) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-19-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
 
 # PokéAssistant
 
@@ -13,7 +13,7 @@ __**This bot is `not` against Discord TOS**__.
 Cleverbot | ❤️ Sponsor |
 :---: | :---:
 [![Sponsor-Image](https://cdn.discordapp.com/avatars/712635007981846601/98cd118e27180b9304bd7c9e1968a4de.png?size=128)](https://top.gg/bot/712635007981846601) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://top.gg/bot/712635007981846601) to invite it from top.gg.
-
+ 
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
 ## Get Premium
