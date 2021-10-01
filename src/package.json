@@ -1,6 +1,6 @@
 {
 	"name": "PokemonAssistant",
-	"version": "3.9.0",
+	"version": "4.0.0",
 	"description": "Hello",
 	"main": "index.js",
 	"dependencies": {
@@ -14,7 +14,7 @@
 		"request-promise": "^4.2.6",
 		"shelljs": "^0.8.4"
 	},
-	"features": "Now pings for SH, Quest and rare spawns when typed hint command. [Read More](https://github.com/TrashUwU/PokeAssistant/releases/tag/v3.9.0), Boost the [support server](https://discord.gg/7RQy8GKMsr) for getting premium.",
+	"features": "Fix 'Failed' Error, Boost the [support server](https://discord.gg/7RQy8GKMsr) for getting premium.",
 	"devDependencies": {},
 	"keywords": [],
 	"author": "TrashUwU",
