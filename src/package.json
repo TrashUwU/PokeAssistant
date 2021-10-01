@@ -6,6 +6,7 @@
 	"dependencies": {
 		"@replit/database": "^2.0.1",
 		"axios": "^0.21.1",
+		"axios-retry": "^3.2.0",
 		"discord.js": "^12.5.3",
 		"jimp": "0.16.1",
 		"quick.db": "^7.1.3",
