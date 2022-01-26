@@ -1,3 +1,6 @@
+🤧 | I've deprecated this project because of financial issues. The bot's code is very light and fits in replit. The AI which predicts was being hosted in my VPS. And every other bot sent the spawn image to my AI for getting predictions. After the release of Gen 8, I had to upgrade the VPS to add more Pokémon which wasn't affordable. So, I decided to deprecate this project.
+:---: | :---
+
 ![](https://media.discordapp.net/attachments/714908291641376810/868701576183820298/PokeAssistant_3.png?width=700&height=100)
 
 [![Version](https://img.shields.io/badge/Version-4.0.0-%2325d60b?logo=visual-studio-code&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/releases) [![Forks](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fforks)](https://replit.com/@ButterTaurus/PokeAssistant) [![Premium](https://img.shields.io/badge/premium%20users-4-%23FF8C00?logo=github&style=for-the-badge)](https://github.com/TrashUwU/PokeAssistant/#features) [![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcoffee.buttertaurus.repl.co%2Fdiscord)](https://discord.gg/CtXvFj9yPq)
