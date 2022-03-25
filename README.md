@@ -1,4 +1,4 @@
-🤧 | I've deprecated this project because of financial issues. The bot's code is very light and fits in replit. The AI which predicts was being hosted in my VPS. And every other bot sent the spawn image to my AI for getting predictions. After the release of Gen 8, I had to upgrade the VPS to add more Pokémon which wasn't affordable.
+⚠️ | I'm busy. This bot will no longer receive updates on a regular basis, as it did previously.
 :---: | :---
 
 ![](https://media.discordapp.net/attachments/714908291641376810/868701576183820298/PokeAssistant_3.png?width=700&height=100)
