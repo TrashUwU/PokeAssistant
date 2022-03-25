@@ -1,6 +1,3 @@
- Troubleshooting Video by *Pritu Dev* | [Click Here](https://www.youtube.com/watch?v=NRo3vMWrpz4)
-:-- | ---:
-
 ## Troubleshooting
 
 
