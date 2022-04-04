@@ -15,7 +15,7 @@ __**This bot is `not` against Discord TOS**__.
 
 Cleverbot | ❤️ Sponsor |
 :---: | :---:
-[![Sponsor-Image](https://cdn.discordapp.com/avatars/712635007981846601/98cd118e27180b9304bd7c9e1968a4de.png?size=128)](https://top.gg/bot/712635007981846601) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://top.gg/bot/712635007981846601) to invite it from top.gg.
+[![Sponsor-Image](https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F712635007981846601%2Ff034d9ad47eada649a1adc770193a47e.png%3Fsize%3D128&w=128&q=75)](https://top.gg/bot/712635007981846601) | Machine-Learning AI contextual chatbot (Toxic & Swears) that talks like a humans! Click [here](https://top.gg/bot/712635007981846601) to invite it from top.gg.
  
 ## License
 There is no license for PokéAssistant. This ensures you are not allowed to redistribute or change the code and [this](https://github.com/TrashUwU/PokeAssistant/blob/main/README.md) ReadMe. I maintain all rights to the source code since there is no license, and no one can copy, distribute, or develop derivative works from it 😠.
