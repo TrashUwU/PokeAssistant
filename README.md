@@ -96,7 +96,7 @@ Click on **Create an application**. This brings you to the following page, in wh
 #### Creating the bot account
 After creating the application, we need to create the Bot User. Go to the `Bot` section on the left, then click on **Add Bot**, then **Yes, Do it**.
 
-![](https://cdn.discordapp.com/attachments/660518707134595095/830720692583923723/3.png)
+![](https://cdn.discordapp.com/attachments/830448272669802526/960509662275461130/3.PNG)
 
 There's a few things you can change here. 
 - Username: Change your bot's username on Discord
@@ -106,23 +106,24 @@ There's a few things you can change here.
 
 After doing these, scroll down.
 #### Enabling Intents
-![](https://cdn.discordapp.com/attachments/696949237786738712/836614489712754749/11.jpg)
+![](https://cdn.discordapp.com/attachments/830448272669802526/960507672174673930/11.jpg)
 
-**Enable those things shown in Pic-**
+**Enable the intents shown in Pic-**
 - Presence Intent
 - Server Members Intent
+- Message Intent
 - Click `Save Changes`
 
 #### Adding to your server
-To generate the invite link, click on **Oauth2** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
+To generate the invite link, click on **Oauth2 >> URL Generator** in the app page, and scroll down to **Scopes**. Check the **Bot** scope to generate a link. You can also add additional permissions for the bot.
 
 ![](https://cdn.discordapp.com/attachments/660518707134595095/830720814994161664/4.png)
 
 Copy the link and open it, select your server and click on **Authorize**. Cheers, it has been added to your server.
 #### Getting the token
-Go back to the **Bot** page and copy the token. Save it somewhere, you will need that later.
+Go back to the **Bot** page and click **Reset Token** and then copy the token. Save it somewhere, you will need that later.
 
-![](https://cdn.discordapp.com/attachments/660518707134595095/830720955277508628/5.png)
+![](https://cdn.discordapp.com/attachments/830448272669802526/960510274111152148/4.png)
 
 
 ### Step 2: Hosting the bot
