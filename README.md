@@ -67,7 +67,7 @@ So here the guide exists to teach you how.
 
 | Video Tutorials |
 :---:
-| Coming soon. Read the updated guide below to setup PokéAssistant |
+| https://youtu.be/JJKRIh_yxEg |
 
 ### Step 1: Create a Github Account
 Visit https://github.com/join and create a Github Account.
