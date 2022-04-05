@@ -167,8 +167,8 @@ The code has already been setup, you only need to go to https://replit.com/@Butt
 
 The bot should be online now!
 
-### Step 3: Keeping the bot online (Optional)
-Replit shuts down projects that are inactive for over 5 minutes. The current code should already keep it up, but some users feedback that it doesn't. We will be using Uptime Robot to keep it up here. Create an account first: https://uptimerobot.com/signUp.
+### Step 3: Keeping the bot online 24/7
+Your bot will shutdown if you close the replit window. We will be using UptimeRobot to keep the bot online 24/7. Create an account first: https://uptimerobot.com/signUp.
 
 After signing up, login and go to the Dashboard, click on **Create New Monitor**, the configurations are as follows:
 
@@ -176,7 +176,7 @@ After signing up, login and go to the Dashboard, click on **Create New Monitor**
 
 - Monitor Type: Choose HTTP(s)
 - Friendly Name: Literally anything
-- URL (or IP): Put `your repl`'s link. Repl links are [these](https://cdn.discordapp.com/attachments/678537293820330005/830757823549276160/7.png) and mobile users will click `web` button to get the repl link.
+- URL (or IP): Put `your repl`'s link. If you are on mobile, click on `Web` tab in your replit project (the site where you put bot token, channel ID), it's in bottom right; then you'll see a URL at the top that ends with `repl.co`. Paste that link in Uptimerobot. If you are on PC click [here](https://cdn.discordapp.com/attachments/678537293820330005/830757823549276160/7.png) to see where the link can be found.
 - Monitoring Interval: 5 minutes
 
 Finally click **Create Monitor** and you're done! Done with everything!
