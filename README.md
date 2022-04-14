@@ -67,7 +67,7 @@ So here the guide exists to teach you how.
 
 | Video Tutorials |
 :---:
-| https://youtu.be/JJKRIh_yxEg |
+| https://drive.google.com/file/d/1-dtNyLJxo73Ls9nArb20AESOLx3yuCXv/view?usp=sharing | 
 
 ### Step 1: Create a Github Account
 Visit https://github.com/join and create a Github Account.
