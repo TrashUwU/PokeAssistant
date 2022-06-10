@@ -1,4 +1,4 @@
-⚠️ | I'm busy. This bot will no longer receive updates on a regular basis, as it did previously.
+⚠️ | I'm busy. This bot will no longer receive updates on a regular basis, as it did previously. The bot still works though.
 :---: | :---
 
 ![](https://media.discordapp.net/attachments/714908291641376810/868701576183820298/PokeAssistant_3.png?width=700&height=100)
